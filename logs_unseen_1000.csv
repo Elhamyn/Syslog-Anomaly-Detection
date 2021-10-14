@@ -1,0 +1,1000 @@
+Oct 13 2021 13:56:08 FW00 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 77.0.131.228 to 60.163.115.33 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:08 FW24 : %ASA-6-302003: Built H245 connection for foreign_address 200.248.204.217/61870 local_address 172.31.111.206 /19844	0
+Oct 13 2021 13:56:08 FW11 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 139.157.120.83 to 93.100.224.95 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:08 FW18 : %ASA-4-209003: Fragment database limit of number exceeded: src = 10.158.107.2 , dest = 151.245.61.80 , proto = ICMP , id = 3664	1
+Oct 13 2021 13:56:08 FW14 : %ASA-3-304003: URL Server 27.147.66.68 timed out URL http://ramsey.org/	0
+Oct 13 2021 13:56:09 FW05 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:09 FW19 : %ASA-7-718021: Sent KEEPALIVE response to 174.228.182.126	0
+Oct 13 2021 13:56:09 FW12 : %ASA-6-302003: Built H245 connection for foreign_address 89.191.210.235/15008 local_address 192.168.255.63 /21508	0
+Oct 13 2021 13:56:09 FW00 : %ASA-4-400012: IPS:2002 ICMP Source Quench 179.120.109.167 to 72.62.184.132 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:09 FW13 : %ASA-4-400014: IPS:2004 ICMP Echo Request 141.124.24.20 to 195.19.105.33 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:09 FW09 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 1.12.5.60 to 90.172.23.78 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:09 FW16 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 36.94.29.126 to 169.0.215.34 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:09 FW23 : %ASA-6-109001: Auth start for user user9 from 172.20.185.52/49913 to 109.146.207.100/50337	0
+Oct 13 2021 13:56:10 FW17 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 214.150.184.49 to 168.61.229.104 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:10 FW03 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 66.115.114.73 to 195.160.58.78 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:10 FW11 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 108.180.74.243 to 222.148.111.40 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:10 FW25 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 51.78.42.111 to 19.93.80.73 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:10 FW18 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:10 FW05 : %ASA-6-109001: Auth start for user user3 from 192.168.112.10/9858 to 194.171.37.157/64017	0
+Oct 13 2021 13:56:10 FW22 : %ASA-7-718021: Sent KEEPALIVE response to 148.75.90.157	0
+Oct 13 2021 13:56:10 FW08 : %ASA-3-304003: URL Server 188.100.131.13 timed out URL https://www.lewis.com/	0
+Oct 13 2021 13:56:11 FW21 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 193.31.143.240 to 128.76.85.140 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:11 FW22 : %ASA-4-400020: IPS:2010 ICMP Information Reply 8.219.143.202 to 146.175.44.206 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:11 FW05 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 73.1.252.105 to 87.107.185.119 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:11 FW02 : %ASA-6-605005: Login permitted from 159.230.177.45/51524 to GigabitEthernet0/1:168.102.137.182/NTP for user user15	0
+Oct 13 2021 13:56:11 FW04 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 13.34.44.193 to 72.90.252.41 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:11 FW13 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 12.173.245.99 to 98.9.215.164 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:11 FW14 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 55.98.37.95 to 97.82.61.160 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:12 FW17 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 145.108.125.87 to 147.168.248.231 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:12 FW25 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:12 FW10 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:56:12 FW25 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 35.174.90.102 to 123.114.196.140 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:12 FW09 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 179.22.202.93 to 208.33.207.239 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:12 FW12 : %ASA-5-611103: User logged out: Uname: user20	0
+Oct 13 2021 13:56:12 FW13 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:12 FW04 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:56:12 FW01 : %ASA-6-303002: FTP connection from GigabitEthernet0/1:178.6.172.134/21517 to GigabitEthernet0/0: 200.163.221.252/47369 , user user14 action file filename	0
+Oct 13 2021 13:56:12 FW19 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 132.119.20.92 to 70.192.72.70 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:12 FW09 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/4 waiting	0
+Oct 13 2021 13:56:12 FW12 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 69.31.55.172 to 189.196.74.154 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:12 FW11 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:12 FW12 : %ASA-4-400037: IPS:6053 DNS Request for All Records 153.57.217.64 to 10.181.234.231 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:13 FW02 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/2 waiting	0
+Oct 13 2021 13:56:13 FW17 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 223.48.145.138 to 58.37.119.187 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:13 FW12 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:56:13 FW21 : %ASA-6-303002: FTP connection from GigabitEthernet0/4:203.31.69.165/11603 to GigabitEthernet0/4: 33.170.69.63/44958 , user user11 action file filename	0
+Oct 13 2021 13:56:13 FW07 : %ASA-6-303002: FTP connection from GigabitEthernet0/1:92.206.210.184/31367 to GigabitEthernet0/0: 52.150.127.168/45361 , user user14 action file filename	0
+Oct 13 2021 13:56:13 FW00 : %ASA-6-109005: Authentication succeeded for user user1 from 192.168.106.47/5456 to 222.161.116.171/18366 on interface GigabitEthernet0/2.	0
+Oct 13 2021 13:56:13 FW15 : %ASA-4-400013: IPS:2003 ICMP Redirect 22.106.129.93 to 118.115.108.46 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:13 FW01 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:13 FW04 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 143.191.101.124 to 38.26.119.129 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:13 FW16 : %ASA-6-605005: Login permitted from 188.70.93.241/10751 to GigabitEthernet0/5:30.148.95.75/SMTP for user user20	0
+Oct 13 2021 13:56:14 FW06 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 16.61.75.193 to 195.124.211.174 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:14 FW09 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 206.104.129.217 to 4.44.182.13 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:14 FW11 : %ASA-4-400013: IPS:2003 ICMP Redirect 175.41.47.233 to 217.10.240.179 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:14 FW12 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:14 FW03 : %ASA-4-400012: IPS:2002 ICMP Source Quench 174.94.121.194 to 23.106.85.100 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:14 FW13 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 103.2.177.0 to 218.203.25.17 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:14 FW13 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 53.187.174.220 to 94.109.56.92 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:15 FW20 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 18.104.146.135 to 156.245.38.41 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:15 FW19 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 187.175.55.187 to 179.36.156.237 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:15 FW05 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/5 , error code = Not responding , will try again.	0
+Oct 13 2021 13:56:15 FW16 : %ASA-4-400041: IPS:6103 Proxied RPC Request from 212.238.81.153 to 195.65.167.170 on interface GigabitEthernet0/4	1
+Oct 13 2021 13:56:15 FW22 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 22.60.142.149 to 209.13.193.23 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:15 FW25 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:56:15 FW01 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 200.112.202.255 to 16.93.93.94 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:15 FW16 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 59.92.137.153 to 14.2.85.233 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:16 FW17 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 97.152.108.100 to 174.210.71.39 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:16 FW06 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/3 waiting	0
+Oct 13 2021 13:56:16 FW14 : %ASA-3-319001: Acknowledge for arp update for IP address 97.236.26.36 not received.	0
+Oct 13 2021 13:56:16 FW00 : %ASA-4-400013: IPS:2003 ICMP Redirect 8.249.159.164 to 193.231.116.86 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:16 FW01 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 22.202.80.156 to 48.60.32.213 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:16 FW06 : %ASA-6-611101: User authentication succeeded: IP, 169.42.108.168 : Uname: user9	0
+Oct 13 2021 13:56:16 FW01 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:16 FW18 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:16 FW03 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:16 FW17 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 116.205.54.198 to 134.168.109.135 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:16 FW23 : %ASA-7-718021: Sent KEEPALIVE response to 161.83.101.30	0
+Oct 13 2021 13:56:16 FW15 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/3 waiting	0
+Oct 13 2021 13:56:16 FW08 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:56:16 FW20 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:56:16 FW00 : %ASA-4-400013: IPS:2003 ICMP Redirect 172.43.255.99 to 176.54.135.205 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:17 FW20 : %ASA-6-109005: Authentication succeeded for user user5 from 10.251.16.117/43418 to 211.13.109.179/22952 on interface GigabitEthernet0/5.	0
+Oct 13 2021 13:56:17 FW08 : %ASA-4-400034: IPS:6050 DNS HINFO Request 112.182.208.128 to 151.136.249.109 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:17 FW00 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 99.49.23.34 to 76.30.119.192 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:17 FW25 : %ASA-3-304003: URL Server 156.110.151.117 timed out URL http://www.lamb.biz/	0
+Oct 13 2021 13:56:17 FW22 : %ASA-7-710002: UDP access permitted from 136.249.229.38/3540 to GigabitEthernet0/2:178.155.247.160/SMTP	0
+Oct 13 2021 13:56:17 FW21 : %ASA-4-400034: IPS:6050 DNS HINFO Request 92.17.70.72 to 142.45.24.102 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:17 FW24 : %ASA-6-314004: RTSP client GigabitEthernet0/4: 57.54.81.221 accessed RTSP URL http://johnson.com/	0
+Oct 13 2021 13:56:18 FW09 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/5: 150.70.175.133/19070 to laddr GigabitEthernet0/0: 10.27.15.190/36951	0
+Oct 13 2021 13:56:18 FW19 : %ASA-3-319001: Acknowledge for arp update for IP address 220.63.77.246 not received.	0
+Oct 13 2021 13:56:18 FW15 : %ASA-6-314004: RTSP client GigabitEthernet0/4: 42.179.54.254 accessed RTSP URL https://murphy.com/	0
+Oct 13 2021 13:56:18 FW06 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 191.238.177.84 to 74.246.10.202 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:18 FW17 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:18 FW09 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:18 FW22 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 134.35.45.26 to 175.99.13.95 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:18 FW08 : %ASA-4-733102: Threat-detection adds host 53.187.61.222 to shun list	1
+Oct 13 2021 13:56:18 FW18 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 20.93.253.103 to 135.182.143.104 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:18 FW08 : %ASA-5-718016: Received HELLO response from 12.195.21.220	0
+Oct 13 2021 13:56:18 FW17 : %ASA-6-605005: Login permitted from 124.79.79.58/45349 to GigabitEthernet0/2:18.90.1.112/SMTP for user user3	0
+Oct 13 2021 13:56:19 FW09 : %ASA-4-400014: IPS:2004 ICMP Echo Request 99.145.50.23 to 15.138.169.17 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:19 FW06 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:56:19 FW07 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:19 FW22 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 33.103.30.37 to 45.76.45.78 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:19 FW08 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 205.93.248.108 to 135.55.59.100 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:19 FW22 : %ASA-4-400014: IPS:2004 ICMP Echo Request 173.69.235.12 to 166.115.238.79 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:19 FW08 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:19 FW05 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:19 FW14 : %ASA-4-400013: IPS:2003 ICMP Redirect 97.60.85.40 to 123.35.147.34 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:19 FW20 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:19 FW18 : %ASA-6-605005: Login permitted from 209.130.155.7/37934 to GigabitEthernet0/2:74.223.89.59/DHCP for user user8	0
+Oct 13 2021 13:56:20 FW09 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 221.162.62.55 to 55.150.44.227 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:20 FW01 : %ASA-4-400012: IPS:2002 ICMP Source Quench 187.55.88.44 to 106.33.161.146 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:20 FW10 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 126.115.179.88 to 194.236.244.4 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:20 FW03 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:56:20 FW19 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:56:20 FW20 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 161.24.112.104 to 22.29.252.62 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:20 FW25 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 179.196.220.202 to 111.223.55.110 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:20 FW15 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:56:20 FW16 : %ASA-3-319001: Acknowledge for arp update for IP address 217.80.162.245 not received.	0
+Oct 13 2021 13:56:20 FW05 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 164.166.143.56 to 11.75.115.203 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:21 FW05 : %ASA-6-611101: User authentication succeeded: IP, 103.106.185.91 : Uname: user8	0
+Oct 13 2021 13:56:21 FW17 : %ASA-7-713052: User user6 authenticated.	0
+Oct 13 2021 13:56:21 FW04 : %ASA-4-400034: IPS:6050 DNS HINFO Request 118.199.190.94 to 130.195.173.43 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:21 FW11 : %ASA-3-710003: UDP access denied by ACL from 93.200.78.154/48313 to GigabitEthernet0/0:4.118.134.55/NTP	1
+Oct 13 2021 13:56:21 FW23 : %ASA-4-400014: IPS:2004 ICMP Echo Request 20.77.128.37 to 199.39.63.188 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:21 FW10 : %ASA-4-400020: IPS:2010 ICMP Information Reply 54.45.73.99 to 90.120.130.213 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:21 FW01 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:56:21 FW16 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 90.159.149.166 to 32.38.200.34 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:21 FW07 : %ASA-6-302003: Built H245 connection for foreign_address 223.148.116.60/29024 local_address 192.168.123.136 /45100	0
+Oct 13 2021 13:56:21 FW13 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 216.228.128.63 to 218.28.219.174 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:22 FW01 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/4 changed state to up	0
+Oct 13 2021 13:56:22 FW16 : %ASA-6-605005: Login permitted from 45.76.225.211/49084 to GigabitEthernet0/3:210.95.147.210/DHCP for user user15	0
+Oct 13 2021 13:56:22 FW08 : %ASA-7-718021: Sent KEEPALIVE response to 137.100.89.209	0
+Oct 13 2021 13:56:22 FW16 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:22 FW25 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:22 FW00 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:56:22 FW23 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 29.176.13.229 to 169.251.70.13 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:22 FW03 : %ASA-5-611103: User logged out: Uname: user12	0
+Oct 13 2021 13:56:22 FW00 : %ASA-3-319002: Acknowledge for route update for IP address 4.6.217.232 not received.	0
+Oct 13 2021 13:56:22 FW03 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/1 during idb initialization	0
+Oct 13 2021 13:56:22 FW24 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 126.36.148.13 to 59.182.227.169 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:22 FW20 : %ASA-3-304003: URL Server 190.118.1.68 timed out URL https://www.decker.net/	0
+Oct 13 2021 13:56:22 FW19 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:56:22 FW09 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 181.249.196.232 to 54.91.245.158 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:23 FW12 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:23 FW18 : %ASA-3-319001: Acknowledge for arp update for IP address 158.146.115.67 not received.	0
+Oct 13 2021 13:56:23 FW19 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:23 FW03 : %ASA-7-713052: User user16 authenticated.	0
+Oct 13 2021 13:56:23 FW22 : %ASA-4-400040: IPS:6102 RPC Dump 136.42.216.81 to 191.91.219.82 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:23 FW09 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 130.26.219.105 to 151.233.253.34 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:23 FW13 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:23 FW20 : %ASA-4-733100: ACL drop drop rate 1 exceeded. Current burst rate is 50 per second, max configured rate is 800 ; Current average rate is 3510 per second, max configured rate is 1000 ; Cumulative total count is 7687574	1
+Oct 13 2021 13:56:23 FW17 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 99.73.161.228 to 90.246.145.182 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:23 FW04 : %ASA-4-400013: IPS:2003 ICMP Redirect 212.193.146.171 to 64.131.102.161 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:23 FW22 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 123.106.72.229 to 204.41.254.152 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:23 FW12 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/2 , error code = Not responding , will try again.	0
+Oct 13 2021 13:56:23 FW08 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:56:23 FW25 : %ASA-5-718016: Received HELLO response from 177.159.6.102	0
+Oct 13 2021 13:56:23 FW21 : %ASA-4-400013: IPS:2003 ICMP Redirect 92.99.154.94 to 22.99.145.233 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:24 FW22 : %ASA-6-109001: Auth start for user user14 from 172.16.137.61/55204 to 11.195.168.240/5789	0
+Oct 13 2021 13:56:24 FW17 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 71.253.67.36 to 60.29.248.198 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:24 FW22 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 106.50.206.250 to 8.254.229.115 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:24 FW05 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 128.94.212.84 to 209.84.208.63 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:24 FW15 : %ASA-4-400013: IPS:2003 ICMP Redirect 31.53.198.88 to 24.72.149.5 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:24 FW03 : %ASA-4-400040: IPS:6102 RPC Dump 119.243.70.235 to 101.174.159.253 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:24 FW03 : %ASA-6-109005: Authentication succeeded for user user12 from 10.34.0.36/58380 to 212.80.44.255/12190 on interface GigabitEthernet0/5.	0
+Oct 13 2021 13:56:25 FW12 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 100.153.1.160 to 159.17.93.117 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:25 FW15 : %ASA-4-405001: Received ARP response collision from 18.54.242.103/fe:2a:1d:ea:f5:96 on interface GigabitEthernet0/4 with existing ARP entry 217.59.30.95/d2:42:4a:4a:76:11.	1
+Oct 13 2021 13:56:25 FW09 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 85.153.23.233 to 136.117.23.105 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:25 FW14 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 73.37.164.75 to 62.17.22.8 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:25 FW10 : %ASA-4-400034: IPS:6050 DNS HINFO Request 117.205.202.201 to 102.114.211.191 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:25 FW21 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:56:25 FW13 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:25 FW11 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:25 FW16 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 210.236.186.80 to 67.124.113.126 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:26 FW06 : %ASA-6-314004: RTSP client GigabitEthernet0/1: 175.71.131.106 accessed RTSP URL http://www.hunt.net/	0
+Oct 13 2021 13:56:26 FW06 : %ASA-4-400012: IPS:2002 ICMP Source Quench 143.2.29.172 to 46.47.140.119 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:26 FW23 : %ASA-4-400037: IPS:6053 DNS Request for All Records 116.185.169.113 to 172.55.187.239 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:26 FW20 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/1:178.50.242.21/52473 to GigabitEthernet0/1:187.57.194.180/87 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:56:26 FW17 : %ASA-3-319001: Acknowledge for arp update for IP address 122.183.211.220 not received.	0
+Oct 13 2021 13:56:26 FW09 : %ASA-4-400040: IPS:6102 RPC Dump 174.33.67.186 to 46.190.152.197 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:26 FW19 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:26 FW07 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:56:26 FW03 : %ASA-3-304003: URL Server 16.128.199.152 timed out URL https://www.jacobs-smith.info/	0
+Oct 13 2021 13:56:27 FW25 : %ASA-6-303002: FTP connection from GigabitEthernet0/1:100.35.14.252/48097 to GigabitEthernet0/0: 189.236.125.213/14267 , user user11 action file filename	0
+Oct 13 2021 13:56:27 FW10 : %ASA-4-400040: IPS:6102 RPC Dump 69.37.16.45 to 4.176.199.76 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:27 FW15 : %ASA-6-109005: Authentication succeeded for user user3 from 192.168.82.83/42274 to 204.197.121.128/53969 on interface GigabitEthernet0/4.	0
+Oct 13 2021 13:56:27 FW12 : %ASA-4-400013: IPS:2003 ICMP Redirect 139.251.169.143 to 18.39.3.209 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:27 FW08 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 220.179.21.195 to 34.127.20.43 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:27 FW03 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 90.84.177.52 to 129.104.204.202 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:27 FW14 : %ASA-5-718016: Received HELLO response from 87.88.241.30	0
+Oct 13 2021 13:56:28 FW05 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 218.141.65.167 to 80.155.141.91 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:28 FW20 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/4 , error code = Not responding , will try again.	0
+Oct 13 2021 13:56:28 FW05 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/1 waiting	0
+Oct 13 2021 13:56:28 FW14 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 111.135.50.124 to 187.65.148.67 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:28 FW03 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/3: 169.187.219.186/49484 to laddr GigabitEthernet0/1: 192.168.30.132/48885	0
+Oct 13 2021 13:56:28 FW07 : %ASA-4-400014: IPS:2004 ICMP Echo Request 141.79.172.141 to 167.196.22.59 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:28 FW19 : %ASA-4-400013: IPS:2003 ICMP Redirect 97.65.157.130 to 23.64.97.26 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:28 FW14 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/2 changed state to up	0
+Oct 13 2021 13:56:28 FW12 : %ASA-4-400034: IPS:6050 DNS HINFO Request 34.250.126.138 to 106.46.183.229 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:28 FW15 : %ASA-4-400007: IPS:1100 IP Fragment Attack from 71.176.183.40 to 193.88.106.33 on interface GigabitEthernet0/3	1
+Oct 13 2021 13:56:29 FW22 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 72.113.183.175 to 102.66.113.205 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:29 FW11 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:29 FW23 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:56:29 FW22 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 179.218.218.118 to 113.194.110.40 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:29 FW24 : %ASA-6-314004: RTSP client GigabitEthernet0/4: 128.42.156.192 accessed RTSP URL https://www.jackson.net/	0
+Oct 13 2021 13:56:29 FW22 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 48.78.122.5 to 158.89.169.75 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:29 FW04 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 170.145.151.155 to 23.91.51.15 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:29 FW00 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 129.120.248.86 to 46.14.212.112 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:30 FW07 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:56:30 FW00 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 187.7.150.127 to 197.35.226.144 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:30 FW09 : %ASA-6-611101: User authentication succeeded: IP, 80.100.171.208 : Uname: user10	0
+Oct 13 2021 13:56:30 FW01 : %ASA-6-109001: Auth start for user user18 from 10.191.108.124/56182 to 68.31.153.202/31874	0
+Oct 13 2021 13:56:30 FW25 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:56:30 FW04 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/1 changed state to up	0
+Oct 13 2021 13:56:30 FW13 : %ASA-4-405001: Received ARP response collision from 220.225.18.108/d4:56:21:43:8f:d5 on interface GigabitEthernet0/5 with existing ARP entry 150.44.25.24/06:5a:5a:8d:97:5e.	1
+Oct 13 2021 13:56:30 FW13 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:30 FW07 : %ASA-7-718023: Received KEEPALIVE response from 189.55.243.137	0
+Oct 13 2021 13:56:30 FW09 : %ASA-2-108003: Terminating ESMTP connection; malicious pattern detected in the mail address from GigabitEthernet0/0:178.200.199.230/40702 to GigabitEthernet0/0:96.82.0.216/52331.	1
+Oct 13 2021 13:56:30 FW24 : %ASA-4-209003: Fragment database limit of number exceeded: src = 192.25.57.208 , dest = 209.252.200.117 , proto = ICMP , id = 4468	1
+Oct 13 2021 13:56:31 FW17 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 38.36.208.132 to 153.198.60.0 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:31 FW22 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:56:31 FW01 : %ASA-7-718021: Sent KEEPALIVE response to 30.161.12.166	0
+Oct 13 2021 13:56:31 FW00 : %ASA-4-400020: IPS:2010 ICMP Information Reply 38.153.32.34 to 220.44.11.227 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:31 FW05 : %ASA-4-400012: IPS:2002 ICMP Source Quench 197.200.164.251 to 162.30.218.215 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:31 FW24 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:56:31 FW18 : %ASA-5-718010: Sent HELLO response to 72.103.197.227	0
+Oct 13 2021 13:56:31 FW19 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:31 FW23 : %ASA-7-718023: Received KEEPALIVE response from 58.221.197.225	0
+Oct 13 2021 13:56:31 FW04 : %ASA-7-718021: Sent KEEPALIVE response to 117.213.224.94	0
+Oct 13 2021 13:56:31 FW23 : %ASA-4-400037: IPS:6053 DNS Request for All Records 73.208.64.217 to 71.109.106.170 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:32 FW14 : %ASA-6-109005: Authentication succeeded for user user4 from 10.149.221.151/25147 to 135.114.156.25/59116 on interface GigabitEthernet0/1.	0
+Oct 13 2021 13:56:32 FW04 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 201.41.103.83 to 171.148.189.18 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:32 FW23 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/1 , error code = Not responding , will try again.	0
+Oct 13 2021 13:56:32 FW16 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 131.79.222.82 to 117.91.23.2 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:32 FW00 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 91.172.164.232 to 59.75.236.157 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:32 FW21 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:32 FW13 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 184.38.227.25 to 147.95.10.170 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:32 FW05 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/5 changed state to up	0
+Oct 13 2021 13:56:32 FW03 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:56:32 FW22 : %ASA-4-400020: IPS:2010 ICMP Information Reply 174.45.135.46 to 85.40.21.197 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:33 FW11 : %ASA-4-400034: IPS:6050 DNS HINFO Request 172.80.56.100 to 178.73.141.51 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:33 FW24 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:33 FW18 : %ASA-3-319002: Acknowledge for route update for IP address 51.218.49.29 not received.	0
+Oct 13 2021 13:56:33 FW04 : %ASA-6-109005: Authentication succeeded for user user10 from 192.168.248.141/60465 to 214.113.126.148/48890 on interface GigabitEthernet0/2.	0
+Oct 13 2021 13:56:33 FW10 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:56:33 FW20 : %ASA-5-611103: User logged out: Uname: user17	0
+Oct 13 2021 13:56:33 FW19 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:33 FW05 : %ASA-4-400014: IPS:2004 ICMP Echo Request 99.248.146.244 to 103.255.139.127 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:33 FW21 : %ASA-4-400013: IPS:2003 ICMP Redirect 222.0.80.239 to 17.243.5.95 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:33 FW01 : %ASA-3-304003: URL Server 106.148.167.80 timed out URL https://gonzales.com/	0
+Oct 13 2021 13:56:33 FW10 : %ASA-3-319001: Acknowledge for arp update for IP address 68.133.164.37 not received.	0
+Oct 13 2021 13:56:33 FW24 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 128.35.147.103 to 15.80.168.215 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:34 FW18 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 118.73.137.73 to 31.200.189.230 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:34 FW20 : %ASA-4-400013: IPS:2003 ICMP Redirect 46.134.199.33 to 203.232.81.215 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:34 FW12 : %ASA-5-718010: Sent HELLO response to 109.236.203.172	0
+Oct 13 2021 13:56:34 FW23 : %ASA-4-400014: IPS:2004 ICMP Echo Request 177.108.197.163 to 42.163.217.211 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:34 FW07 : %ASA-6-314004: RTSP client GigabitEthernet0/3: 194.84.205.120 accessed RTSP URL https://smith.com/	0
+Oct 13 2021 13:56:34 FW17 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:34 FW09 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:34 FW24 : %ASA-4-400050: IPS:6190 statd Buffer Overflow from 112.139.214.194 to 180.228.156.113 on interface GigabitEthernet0/2	1
+Oct 13 2021 13:56:34 FW19 : %ASA-4-400027: IPS:3041 TCP SYN+FIN flags from 152.44.9.208 to 209.23.122.14 on interface GigabitEthernet0/3	1
+Oct 13 2021 13:56:35 FW09 : %ASA-6-303002: FTP connection from GigabitEthernet0/1:64.143.17.107/42532 to GigabitEthernet0/1: 212.196.66.126/25964 , user user20 action file filename	0
+Oct 13 2021 13:56:35 FW19 : %ASA-4-400013: IPS:2003 ICMP Redirect 15.151.130.36 to 40.3.182.126 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:35 FW01 : %ASA-7-713052: User user16 authenticated.	0
+Oct 13 2021 13:56:35 FW24 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 14.81.180.176 to 17.7.206.220 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:35 FW24 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:35 FW12 : %ASA-6-611101: User authentication succeeded: IP, 215.125.77.44 : Uname: user13	0
+Oct 13 2021 13:56:35 FW01 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 168.154.88.98 to 87.130.108.224 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:35 FW19 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:56:35 FW00 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 152.43.190.72 to 160.208.194.26 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:35 FW18 : %ASA-4-400037: IPS:6053 DNS Request for All Records 32.43.119.157 to 28.148.65.75 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:36 FW05 : %ASA-2-108003: Terminating ESMTP connection; malicious pattern detected in the mail address from GigabitEthernet0/1:208.195.77.208/47490 to GigabitEthernet0/1:57.187.60.163/61155.	1
+Oct 13 2021 13:56:36 FW15 : %ASA-4-400013: IPS:2003 ICMP Redirect 22.227.67.99 to 26.128.37.133 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:36 FW03 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 180.123.27.68 to 179.98.133.210 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:36 FW21 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 198.31.61.212 to 207.153.240.76 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:36 FW08 : %ASA-4-400040: IPS:6102 RPC Dump 107.40.244.115 to 107.16.98.127 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:36 FW08 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 89.151.142.97 to 79.177.159.252 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:36 FW10 : %ASA-5-718016: Received HELLO response from 90.65.11.17	0
+Oct 13 2021 13:56:37 FW15 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:37 FW18 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/2: 139.106.222.82/20948 to laddr GigabitEthernet0/0: 192.168.243.185/48648	0
+Oct 13 2021 13:56:37 FW12 : %ASA-7-713052: User user7 authenticated.	0
+Oct 13 2021 13:56:37 FW01 : %ASA-3-319001: Acknowledge for arp update for IP address 147.86.7.243 not received.	0
+Oct 13 2021 13:56:37 FW07 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 149.145.16.187 to 156.119.128.103 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:37 FW09 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 44.224.168.251 to 110.152.132.174 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:37 FW23 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 101.7.148.196 to 50.217.251.159 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:37 FW20 : %ASA-3-319002: Acknowledge for route update for IP address 47.117.11.119 not received.	0
+Oct 13 2021 13:56:37 FW04 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/1 waiting	0
+Oct 13 2021 13:56:37 FW02 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:37 FW14 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 208.33.211.34 to 104.212.26.224 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:37 FW02 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:56:37 FW06 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:37 FW15 : %ASA-4-400013: IPS:2003 ICMP Redirect 216.248.126.41 to 101.44.94.139 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:38 FW25 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 43.109.223.238 to 98.184.38.107 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:38 FW18 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/4 changed state to up	0
+Oct 13 2021 13:56:38 FW25 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:38 FW10 : %ASA-7-718021: Sent KEEPALIVE response to 146.80.12.11	0
+Oct 13 2021 13:56:38 FW02 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:56:38 FW18 : %ASA-6-314004: RTSP client GigabitEthernet0/5: 144.191.14.53 accessed RTSP URL https://logan.com/	0
+Oct 13 2021 13:56:38 FW05 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/1 changed state to up	0
+Oct 13 2021 13:56:38 FW02 : %ASA-4-400013: IPS:2003 ICMP Redirect 89.16.203.107 to 38.79.119.53 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:38 FW03 : %ASA-4-400034: IPS:6050 DNS HINFO Request 41.73.234.26 to 104.121.145.58 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:38 FW21 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 64.48.239.128 to 141.85.250.214 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:38 FW08 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/4: 100.0.33.135/49461 to laddr GigabitEthernet0/1: 192.168.34.40/17977	0
+Oct 13 2021 13:56:38 FW20 : %ASA-6-314004: RTSP client GigabitEthernet0/0: 161.104.234.30 accessed RTSP URL http://www.meyer.net/	0
+Oct 13 2021 13:56:39 FW16 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/3 changed state to up	0
+Oct 13 2021 13:56:39 FW10 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/4 , error code = Not responding , will try again.	0
+Oct 13 2021 13:56:39 FW08 : %ASA-6-605005: Login permitted from 183.144.187.113/62570 to GigabitEthernet0/0:93.101.158.197/NTP for user user18	0
+Oct 13 2021 13:56:39 FW01 : %ASA-5-718010: Sent HELLO response to 128.97.154.80	0
+Oct 13 2021 13:56:39 FW06 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 97.200.28.251 to 185.60.93.74 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:39 FW19 : %ASA-4-400014: IPS:2004 ICMP Echo Request 85.210.81.40 to 161.251.35.198 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:39 FW11 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/0: 189.217.121.88/30614 to laddr GigabitEthernet0/0: 172.16.52.27/55520	0
+Oct 13 2021 13:56:39 FW01 : %ASA-4-400037: IPS:6053 DNS Request for All Records 192.154.32.201 to 83.185.170.208 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:39 FW15 : %ASA-3-319002: Acknowledge for route update for IP address 207.25.220.243 not received.	0
+Oct 13 2021 13:56:40 FW11 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/2 during idb initialization	0
+Oct 13 2021 13:56:40 FW02 : %ASA-7-710005: TCP request discarded from 19.92.84.159/65313 to GigabitEthernet0/5:6.34.241.160/SMTP	1
+Oct 13 2021 13:56:40 FW23 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:40 FW07 : %ASA-7-710002: UDP access permitted from 95.23.42.138/21678 to GigabitEthernet0/5:61.110.167.190/DHCP	0
+Oct 13 2021 13:56:40 FW20 : %ASA-4-400037: IPS:6053 DNS Request for All Records 9.146.19.132 to 196.169.212.87 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:40 FW03 : %ASA-4-400029: IPS:3153 FTP Improper Address Specified from 32.62.13.92 to 97.67.119.15 on interface GigabitEthernet0/3	1
+Oct 13 2021 13:56:40 FW01 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/3 during idb initialization	0
+Oct 13 2021 13:56:40 FW00 : %ASA-5-718010: Sent HELLO response to 12.222.180.4	0
+Oct 13 2021 13:56:40 FW17 : %ASA-4-400012: IPS:2002 ICMP Source Quench 87.200.90.162 to 22.139.92.214 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:40 FW02 : %ASA-6-109001: Auth start for user user1 from 10.96.159.63/36781 to 220.86.208.220/47257	0
+Oct 13 2021 13:56:41 FW25 : %ASA-4-400012: IPS:2002 ICMP Source Quench 151.241.208.246 to 44.177.128.236 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:41 FW08 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/3 waiting	0
+Oct 13 2021 13:56:41 FW10 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:56:41 FW04 : %ASA-7-710006: ICMP request discarded from 49.196.21.108 to GigabitEthernet0/5:147.238.171.108	1
+Oct 13 2021 13:56:41 FW01 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/0:215.43.79.9/43038 to GigabitEthernet0/4:129.165.69.121/51473 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:56:41 FW24 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 213.15.194.171 to 163.204.167.196 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:41 FW21 : %ASA-3-304003: URL Server 90.164.51.170 timed out URL https://schaefer.com/	0
+Oct 13 2021 13:56:41 FW21 : %ASA-6-302003: Built H245 connection for foreign_address 194.225.88.14/53923 local_address 172.21.151.103 /21037	0
+Oct 13 2021 13:56:41 FW07 : %ASA-7-713052: User user10 authenticated.	0
+Oct 13 2021 13:56:41 FW23 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/4: 59.134.157.154/2846 to laddr GigabitEthernet0/4: 10.240.108.166/26050	0
+Oct 13 2021 13:56:42 FW17 : %ASA-4-400013: IPS:2003 ICMP Redirect 179.246.150.121 to 122.22.79.116 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:42 FW03 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/4 , error code = Not responding , will try again.	0
+Oct 13 2021 13:56:42 FW02 : %ASA-5-611103: User logged out: Uname: user8	0
+Oct 13 2021 13:56:42 FW25 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 220.19.13.77 to 51.146.205.89 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:42 FW22 : %ASA-4-400037: IPS:6053 DNS Request for All Records 75.223.33.236 to 208.228.54.111 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:42 FW21 : %ASA-4-400020: IPS:2010 ICMP Information Reply 87.39.9.6 to 136.81.126.22 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:42 FW17 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:42 FW16 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:56:42 FW04 : %ASA-7-718021: Sent KEEPALIVE response to 188.92.92.212	0
+Oct 13 2021 13:56:42 FW04 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 65.100.107.102 to 78.203.215.253 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:42 FW04 : %ASA-4-400007: IPS:1100 IP Fragment Attack from 137.154.17.141 to 103.107.198.208 on interface GigabitEthernet0/5	1
+Oct 13 2021 13:56:43 FW25 : %ASA-6-109001: Auth start for user user19 from 10.30.99.65/40289 to 156.17.61.143/14533	0
+Oct 13 2021 13:56:43 FW03 : %ASA-4-733100: Interface drop rate 1 exceeded. Current burst rate is 1 per second, max configured rate is 8000 ; Current average rate is 2040 per second, max configured rate is 2000 ; Cumulative total count is 3930654	1
+Oct 13 2021 13:56:43 FW04 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:56:43 FW12 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:43 FW10 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 183.165.54.130 to 212.198.167.251 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:43 FW09 : %ASA-7-710002: UDP access permitted from 69.45.238.242/14545 to GigabitEthernet0/5:158.187.37.233/DNS	0
+Oct 13 2021 13:56:43 FW00 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:43 FW06 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/2 changed state to up	0
+Oct 13 2021 13:56:43 FW17 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:43 FW14 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 71.153.98.21 to 55.105.203.121 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:43 FW03 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 142.223.69.77 to 106.55.136.106 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:43 FW03 : %ASA-3-319001: Acknowledge for arp update for IP address 60.161.41.200 not received.	0
+Oct 13 2021 13:56:43 FW25 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 23.91.51.168 to 112.228.72.2 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:44 FW02 : %ASA-6-303002: FTP connection from GigabitEthernet0/2:38.141.39.183/1578 to GigabitEthernet0/1: 214.41.129.120/2289 , user user20 action file filename	0
+Oct 13 2021 13:56:44 FW05 : %ASA-6-302003: Built H245 connection for foreign_address 66.168.92.209/49257 local_address 172.16.123.206 /60681	0
+Oct 13 2021 13:56:44 FW09 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 5.229.168.246 to 1.248.207.36 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:44 FW15 : %ASA-7-718021: Sent KEEPALIVE response to 154.173.84.39	0
+Oct 13 2021 13:56:44 FW11 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 210.241.25.25 to 111.71.15.88 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:44 FW15 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:56:44 FW19 : %ASA-4-400037: IPS:6053 DNS Request for All Records 200.252.90.173 to 100.25.202.185 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:44 FW19 : %ASA-4-400013: IPS:2003 ICMP Redirect 210.162.250.17 to 61.190.208.112 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:45 FW13 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 66.3.46.93 to 182.173.16.144 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:45 FW23 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/5 changed state to up	0
+Oct 13 2021 13:56:45 FW22 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 208.140.45.79 to 222.151.11.54 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:45 FW08 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 188.140.231.1 to 217.66.147.1 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:45 FW04 : %ASA-6-303002: FTP connection from GigabitEthernet0/4:163.191.27.249/14547 to GigabitEthernet0/2: 118.220.231.245/38946 , user user14 action file filename	0
+Oct 13 2021 13:56:45 FW24 : %ASA-7-718021: Sent KEEPALIVE response to 131.136.148.141	0
+Oct 13 2021 13:56:45 FW03 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 186.205.215.72 to 91.18.79.163 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:45 FW24 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 175.116.170.202 to 110.99.139.24 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:46 FW06 : %ASA-4-400012: IPS:2002 ICMP Source Quench 166.110.109.202 to 157.4.236.80 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:46 FW25 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 159.148.132.0 to 98.128.21.200 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:46 FW22 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 204.41.241.24 to 66.76.80.13 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:46 FW12 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:46 FW24 : %ASA-7-718021: Sent KEEPALIVE response to 165.235.33.57	0
+Oct 13 2021 13:56:46 FW01 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:46 FW16 : %ASA-6-605005: Login permitted from 21.197.144.87/24695 to GigabitEthernet0/2:22.137.119.40/SMTP for user user6	0
+Oct 13 2021 13:56:46 FW13 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 58.140.227.132 to 124.47.146.152 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:46 FW08 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 94.67.224.101 to 212.123.175.203 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:47 FW06 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:56:47 FW25 : %ASA-4-400037: IPS:6053 DNS Request for All Records 65.138.52.154 to 188.169.39.191 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:47 FW06 : %ASA-6-303002: FTP connection from GigabitEthernet0/5:44.219.30.190/26910 to GigabitEthernet0/0: 120.166.201.30/18615 , user user15 action file filename	0
+Oct 13 2021 13:56:47 FW01 : %ASA-6-605005: Login permitted from 135.217.133.226/19122 to GigabitEthernet0/4:86.66.150.124/SMTP for user user15	0
+Oct 13 2021 13:56:47 FW09 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:56:47 FW05 : %ASA-5-611103: User logged out: Uname: user1	0
+Oct 13 2021 13:56:47 FW09 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 5.129.185.246 to 33.180.240.217 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:47 FW01 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/2: 41.224.218.88/11925 to laddr GigabitEthernet0/2: 192.168.178.173/62883	0
+Oct 13 2021 13:56:47 FW02 : %ASA-6-314004: RTSP client GigabitEthernet0/1: 163.26.222.148 accessed RTSP URL http://johnson-grant.com/	0
+Oct 13 2021 13:56:47 FW10 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 158.156.192.86 to 52.53.99.82 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:48 FW06 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/2: 216.210.70.71/59338 to laddr GigabitEthernet0/1: 192.168.218.84/51692	0
+Oct 13 2021 13:56:48 FW03 : %ASA-3-304003: URL Server 180.20.204.56 timed out URL http://www.knight.com/	0
+Oct 13 2021 13:56:48 FW02 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 104.47.207.226 to 125.248.78.238 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:48 FW09 : %ASA-5-718010: Sent HELLO response to 55.193.34.54	0
+Oct 13 2021 13:56:48 FW03 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 130.18.196.76 to 193.105.221.90 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:48 FW05 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:56:48 FW13 : %ASA-5-718010: Sent HELLO response to 6.122.219.103	0
+Oct 13 2021 13:56:48 FW17 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 39.47.106.147 to 154.211.176.26 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:48 FW10 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 192.242.202.55 to 130.171.47.7 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:49 FW00 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:49 FW23 : %ASA-6-303002: FTP connection from GigabitEthernet0/2:205.60.132.215/61854 to GigabitEthernet0/1: 86.204.77.212/14994 , user user18 action file filename	0
+Oct 13 2021 13:56:49 FW22 : %ASA-6-605005: Login permitted from 66.117.244.128/46018 to GigabitEthernet0/2:65.254.28.249/NTP for user user1	0
+Oct 13 2021 13:56:49 FW14 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 24.223.229.28 to 133.183.192.198 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:49 FW23 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:56:49 FW07 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 204.32.183.136 to 107.192.93.55 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:49 FW22 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 96.157.107.81 to 194.115.150.144 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:49 FW06 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 114.157.3.114 to 30.190.85.102 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:49 FW16 : %ASA-6-611101: User authentication succeeded: IP, 174.68.148.10 : Uname: user18	0
+Oct 13 2021 13:56:50 FW03 : %ASA-3-304003: URL Server 173.58.185.80 timed out URL http://johnson.net/	0
+Oct 13 2021 13:56:50 FW21 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 91.38.165.177 to 71.59.133.222 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:50 FW14 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 192.191.131.238 to 39.251.153.162 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:50 FW11 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/3 waiting	0
+Oct 13 2021 13:56:50 FW09 : %ASA-7-713052: User user17 authenticated.	0
+Oct 13 2021 13:56:50 FW03 : %ASA-3-319002: Acknowledge for route update for IP address 198.228.150.98 not received.	0
+Oct 13 2021 13:56:50 FW22 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 140.132.177.34 to 201.199.207.181 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:50 FW06 : %ASA-7-718021: Sent KEEPALIVE response to 100.24.41.135	0
+Oct 13 2021 13:56:50 FW05 : %ASA-4-400012: IPS:2002 ICMP Source Quench 125.71.3.145 to 32.50.157.32 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:50 FW18 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 87.153.179.206 to 104.39.194.128 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:51 FW16 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/3: 180.188.178.71/28307 to laddr GigabitEthernet0/5: 172.22.102.160/4727	0
+Oct 13 2021 13:56:51 FW18 : %ASA-6-605005: Login permitted from 116.16.143.178/17357 to GigabitEthernet0/3:28.199.154.138/DNS for user user10	0
+Oct 13 2021 13:56:51 FW14 : %ASA-4-400020: IPS:2010 ICMP Information Reply 130.15.189.104 to 215.236.35.96 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:51 FW07 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:51 FW10 : %ASA-4-400020: IPS:2010 ICMP Information Reply 189.72.96.61 to 106.38.147.154 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:51 FW21 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:56:51 FW15 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 150.122.149.223 to 46.137.58.185 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:51 FW13 : %ASA-6-109005: Authentication succeeded for user user7 from 172.16.101.110/1860 to 92.62.188.114/16310 on interface GigabitEthernet0/5.	0
+Oct 13 2021 13:56:51 FW13 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 115.186.112.13 to 120.30.82.5 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:52 FW07 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:52 FW14 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:56:52 FW02 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:56:52 FW12 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 63.117.127.68 to 135.0.255.226 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:52 FW15 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 196.0.157.112 to 124.32.188.124 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:52 FW24 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 151.237.46.151 to 184.164.168.96 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:52 FW06 : %ASA-7-710002: UDP access permitted from 164.202.120.176/37785 to GigabitEthernet0/4:75.15.195.136/NTP	0
+Oct 13 2021 13:56:52 FW04 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:52 FW13 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 64.149.2.246 to 41.34.120.171 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:52 FW05 : %ASA-7-718023: Received KEEPALIVE response from 201.165.157.22	0
+Oct 13 2021 13:56:52 FW24 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:52 FW25 : %ASA-4-109017: User at 197.122.27.49 exceeded auth proxy connection limit (1000).	1
+Oct 13 2021 13:56:53 FW11 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 94.176.2.124 to 174.62.251.80 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:56:53 FW22 : %ASA-5-611103: User logged out: Uname: user8	0
+Oct 13 2021 13:56:53 FW09 : %ASA-4-400012: IPS:2002 ICMP Source Quench 26.121.197.182 to 37.156.118.63 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:53 FW24 : %ASA-3-304003: URL Server 135.188.201.3 timed out URL http://www.johnson.com/	0
+Oct 13 2021 13:56:53 FW06 : %ASA-4-400024: IPS:2151 Large ICMP Traffic from 114.240.237.111 to 157.252.86.110 on interface GigabitEthernet0/0	1
+Oct 13 2021 13:56:53 FW05 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 188.153.93.194 to 70.62.65.127 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:53 FW11 : %ASA-6-303002: FTP connection from GigabitEthernet0/5:192.153.239.99/42088 to GigabitEthernet0/5: 137.152.85.228/13969 , user user9 action file filename	0
+Oct 13 2021 13:56:53 FW02 : %ASA-7-710002: UDP access permitted from 104.190.60.139/35649 to GigabitEthernet0/3:68.110.125.230/DNS	0
+Oct 13 2021 13:56:54 FW06 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:54 FW07 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:54 FW13 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 49.25.41.29 to 145.105.106.61 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:54 FW20 : %ASA-3-304003: URL Server 107.247.71.94 timed out URL http://figueroa.com/	0
+Oct 13 2021 13:56:54 FW02 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 8.66.57.51 to 203.91.116.204 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:54 FW25 : %ASA-5-718010: Sent HELLO response to 179.152.147.177	0
+Oct 13 2021 13:56:54 FW00 : %ASA-3-319001: Acknowledge for arp update for IP address 176.222.20.167 not received.	0
+Oct 13 2021 13:56:54 FW00 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:56:54 FW01 : %ASA-6-302003: Built H245 connection for foreign_address 26.90.213.35/43716 local_address 10.38.127.118 /21664	0
+Oct 13 2021 13:56:54 FW05 : %ASA-6-611101: User authentication succeeded: IP, 165.131.225.225 : Uname: user1	0
+Oct 13 2021 13:56:54 FW22 : %ASA-6-109001: Auth start for user user2 from 172.25.91.196/58891 to 202.153.138.31/404	0
+Oct 13 2021 13:56:55 FW05 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/4 , error code = Not responding , will try again.	0
+Oct 13 2021 13:56:55 FW18 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:55 FW17 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/2 waiting	0
+Oct 13 2021 13:56:55 FW11 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 142.244.188.196 to 164.83.117.9 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:55 FW06 : %ASA-4-400028: IPS:3042 TCP FIN only flags from 153.227.181.59 to 35.171.102.39 on interface GigabitEthernet0/5	1
+Oct 13 2021 13:56:55 FW00 : %ASA-4-400034: IPS:6050 DNS HINFO Request 176.87.78.71 to 136.15.202.197 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:55 FW10 : %ASA-4-400020: IPS:2010 ICMP Information Reply 125.81.89.227 to 214.245.210.242 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:55 FW14 : %ASA-3-319002: Acknowledge for route update for IP address 164.161.194.38 not received.	0
+Oct 13 2021 13:56:55 FW17 : %ASA-6-302003: Built H245 connection for foreign_address 204.5.228.121/14810 local_address 172.17.143.170 /15609	0
+Oct 13 2021 13:56:55 FW24 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 109.242.198.33 to 25.24.82.149 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:55 FW09 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 49.193.88.87 to 75.208.91.84 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:56:56 FW02 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 194.118.142.136 to 47.134.108.161 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:56 FW01 : %ASA-6-109001: Auth start for user user8 from 10.120.60.245/46173 to 161.147.156.109/21291	0
+Oct 13 2021 13:56:56 FW06 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 151.244.228.51 to 84.73.1.37 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:56 FW25 : %ASA-5-718010: Sent HELLO response to 109.65.149.147	0
+Oct 13 2021 13:56:56 FW21 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/1 waiting	0
+Oct 13 2021 13:56:56 FW05 : %ASA-4-400014: IPS:2004 ICMP Echo Request 8.149.140.199 to 12.57.130.47 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:56 FW03 : %ASA-6-302003: Built H245 connection for foreign_address 179.108.184.2/3336 local_address 10.138.250.78 /31914	0
+Oct 13 2021 13:56:56 FW17 : %ASA-4-400025: IPS:2154 Ping of Death Attack from 112.171.139.113 to 129.23.164.219 on interface GigabitEthernet0/2	1
+Oct 13 2021 13:56:57 FW21 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 33.102.80.162 to 38.19.154.70 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:57 FW06 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/0 changed state to up	0
+Oct 13 2021 13:56:57 FW18 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/5 changed state to up	0
+Oct 13 2021 13:56:57 FW01 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:56:57 FW09 : %ASA-6-109001: Auth start for user user14 from 192.168.203.242/27788 to 174.25.180.64/39318	0
+Oct 13 2021 13:56:57 FW21 : %ASA-3-319002: Acknowledge for route update for IP address 67.108.210.122 not received.	0
+Oct 13 2021 13:56:57 FW01 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:56:57 FW02 : %ASA-4-400028: IPS:3042 TCP FIN only flags from 69.233.184.207 to 105.190.92.185 on interface GigabitEthernet0/4	1
+Oct 13 2021 13:56:57 FW25 : %ASA-3-304003: URL Server 138.36.1.178 timed out URL https://www.young.com/	0
+Oct 13 2021 13:56:57 FW17 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 211.139.240.210 to 131.90.182.114 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:57 FW02 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:57 FW19 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 165.24.99.197 to 35.154.202.84 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:57 FW13 : %ASA-4-400040: IPS:6102 RPC Dump 217.129.5.106 to 166.221.149.65 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:58 FW22 : %ASA-5-718016: Received HELLO response from 202.232.119.177	0
+Oct 13 2021 13:56:58 FW02 : %ASA-7-710002: UDP access permitted from 68.16.64.212/28864 to GigabitEthernet0/5:104.109.202.244/NTP	0
+Oct 13 2021 13:56:58 FW14 : %ASA-6-611101: User authentication succeeded: IP, 13.48.30.62 : Uname: user10	0
+Oct 13 2021 13:56:58 FW06 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:56:58 FW10 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/4 waiting	0
+Oct 13 2021 13:56:58 FW07 : %ASA-6-109001: Auth start for user user18 from 192.168.33.149/20397 to 54.56.92.139/61051	0
+Oct 13 2021 13:56:58 FW17 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:56:58 FW17 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:58 FW11 : %ASA-6-109005: Authentication succeeded for user user6 from 172.20.57.92/64811 to 31.169.63.106/43443 on interface GigabitEthernet0/5.	0
+Oct 13 2021 13:56:58 FW06 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 186.234.79.50 to 145.126.124.94 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:58 FW00 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 192.71.141.58 to 111.250.100.203 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:56:58 FW04 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 19.62.128.106 to 216.94.61.68 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:59 FW22 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 3.231.6.90 to 51.198.148.208 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:56:59 FW03 : %ASA-6-314004: RTSP client GigabitEthernet0/1: 113.174.198.75 accessed RTSP URL http://ryan-smith.com/	0
+Oct 13 2021 13:56:59 FW25 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/0 , error code = Not responding , will try again.	0
+Oct 13 2021 13:56:59 FW11 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:56:59 FW13 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/0 during idb initialization	0
+Oct 13 2021 13:56:59 FW07 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 206.18.215.48 to 56.231.135.233 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:56:59 FW12 : %ASA-3-319002: Acknowledge for route update for IP address 25.221.59.211 not received.	0
+Oct 13 2021 13:56:59 FW01 : %ASA-7-713052: User user7 authenticated.	0
+Oct 13 2021 13:56:59 FW10 : %ASA-4-400013: IPS:2003 ICMP Redirect 137.134.162.166 to 185.223.90.82 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:56:59 FW20 : %ASA-3-319001: Acknowledge for arp update for IP address 212.119.23.134 not received.	0
+Oct 13 2021 13:56:59 FW17 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:56:59 FW03 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:56:59 FW21 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/5 waiting	0
+Oct 13 2021 13:56:59 FW02 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/3 changed state to up	0
+Oct 13 2021 13:56:59 FW01 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 81.0.53.52 to 211.234.45.202 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:00 FW02 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 40.151.174.190 to 27.89.121.182 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:00 FW20 : %ASA-6-303002: FTP connection from GigabitEthernet0/5:174.96.186.72/40157 to GigabitEthernet0/4: 41.222.101.59/25781 , user user9 action file filename	0
+Oct 13 2021 13:57:00 FW12 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:00 FW22 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 178.132.115.155 to 107.246.60.44 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:00 FW09 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 179.226.140.117 to 79.35.242.81 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:00 FW18 : %ASA-4-400037: IPS:6053 DNS Request for All Records 153.234.5.18 to 6.113.208.130 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:00 FW15 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:00 FW23 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:57:00 FW04 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:57:00 FW23 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 215.232.252.22 to 128.161.15.172 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:00 FW10 : %ASA-5-611103: User logged out: Uname: user18	0
+Oct 13 2021 13:57:00 FW20 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 171.234.226.178 to 53.13.17.86 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:01 FW11 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 91.68.135.73 to 13.98.249.206 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:01 FW23 : %ASA-6-611101: User authentication succeeded: IP, 171.224.2.173 : Uname: user17	0
+Oct 13 2021 13:57:01 FW08 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:01 FW12 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 221.197.102.194 to 222.242.211.143 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:01 FW03 : %ASA-6-109005: Authentication succeeded for user user10 from 192.168.186.59/13601 to 192.178.155.153/9530 on interface GigabitEthernet0/1.	0
+Oct 13 2021 13:57:01 FW15 : %ASA-6-611101: User authentication succeeded: IP, 131.254.113.129 : Uname: user8	0
+Oct 13 2021 13:57:01 FW19 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:57:01 FW21 : %ASA-6-605005: Login permitted from 129.36.178.6/61925 to GigabitEthernet0/4:91.131.205.112/NTP for user user18	0
+Oct 13 2021 13:57:01 FW11 : %ASA-4-400040: IPS:6102 RPC Dump 181.183.81.147 to 49.49.115.81 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:01 FW13 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/4:54.92.92.118/12563 to GigabitEthernet0/3:9.73.159.134/49510 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:57:02 FW00 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 60.216.119.111 to 96.26.106.43 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:02 FW05 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/1 during idb initialization	0
+Oct 13 2021 13:57:02 FW15 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 105.86.34.5 to 188.160.95.12 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:02 FW11 : %ASA-5-718016: Received HELLO response from 130.89.203.164	0
+Oct 13 2021 13:57:02 FW21 : %ASA-4-400034: IPS:6050 DNS HINFO Request 49.85.253.189 to 4.27.214.100 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:02 FW25 : %ASA-3-319001: Acknowledge for arp update for IP address 159.58.86.129 not received.	0
+Oct 13 2021 13:57:02 FW16 : %ASA-7-710002: UDP access permitted from 68.58.186.153/65154 to GigabitEthernet0/3:195.18.14.219/DNS	0
+Oct 13 2021 13:57:02 FW19 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 84.121.160.251 to 98.132.212.41 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:02 FW15 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/3 during idb initialization	0
+Oct 13 2021 13:57:02 FW10 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:02 FW10 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:02 FW18 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:02 FW09 : %ASA-5-611103: User logged out: Uname: user12	0
+Oct 13 2021 13:57:02 FW13 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/4 waiting	0
+Oct 13 2021 13:57:02 FW00 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 109.92.187.204 to 17.184.32.208 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:03 FW09 : %ASA-6-302003: Built H245 connection for foreign_address 35.186.95.249/49163 local_address 172.23.198.157 /9188	0
+Oct 13 2021 13:57:03 FW06 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:03 FW01 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/0 changed state to up	0
+Oct 13 2021 13:57:03 FW11 : %ASA-4-400020: IPS:2010 ICMP Information Reply 222.0.59.201 to 140.154.83.196 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:03 FW19 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/2:172.134.142.26/28932 to GigabitEthernet0/2:68.134.208.115/38253 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:57:03 FW08 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 147.206.149.132 to 221.48.236.237 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:03 FW09 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:57:03 FW24 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:57:03 FW17 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 147.45.244.133 to 45.177.28.52 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:03 FW05 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 58.151.39.128 to 220.224.237.97 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:04 FW25 : %ASA-4-400034: IPS:6050 DNS HINFO Request 67.23.166.91 to 132.173.77.28 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:04 FW20 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 136.217.132.242 to 163.21.224.30 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:04 FW11 : %ASA-5-718010: Sent HELLO response to 125.5.11.221	0
+Oct 13 2021 13:57:04 FW01 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:57:04 FW17 : %ASA-4-400013: IPS:2003 ICMP Redirect 165.128.60.31 to 199.13.200.145 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:04 FW05 : %ASA-7-710002: UDP access permitted from 68.11.193.101/11851 to GigabitEthernet0/1:35.158.42.216/DHCP	0
+Oct 13 2021 13:57:04 FW04 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 183.87.32.69 to 168.195.201.144 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:04 FW08 : %ASA-7-718023: Received KEEPALIVE response from 166.16.217.97	0
+Oct 13 2021 13:57:05 FW00 : %ASA-4-400034: IPS:6050 DNS HINFO Request 106.99.143.253 to 19.56.8.193 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:05 FW24 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:05 FW07 : %ASA-4-400034: IPS:6050 DNS HINFO Request 12.86.138.126 to 100.174.76.119 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:05 FW10 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/5 , error code = Not responding , will try again.	0
+Oct 13 2021 13:57:05 FW09 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 202.100.148.12 to 128.105.28.111 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:05 FW07 : %ASA-7-718021: Sent KEEPALIVE response to 212.215.159.206	0
+Oct 13 2021 13:57:05 FW09 : %ASA-6-303002: FTP connection from GigabitEthernet0/2:93.84.202.241/58967 to GigabitEthernet0/1: 145.102.198.212/4576 , user user4 action file filename	0
+Oct 13 2021 13:57:05 FW06 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 116.181.70.70 to 60.210.252.187 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:05 FW11 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:05 FW25 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/0 changed state to up	0
+Oct 13 2021 13:57:05 FW21 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/1: 172.14.240.149/30102 to laddr GigabitEthernet0/5: 172.30.69.51/41360	0
+Oct 13 2021 13:57:05 FW22 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 116.173.207.135 to 56.93.158.73 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:06 FW01 : %ASA-6-611101: User authentication succeeded: IP, 190.14.80.229 : Uname: user10	0
+Oct 13 2021 13:57:06 FW12 : %ASA-4-400037: IPS:6053 DNS Request for All Records 47.9.181.45 to 7.87.160.112 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:06 FW12 : %ASA-7-713052: User user5 authenticated.	0
+Oct 13 2021 13:57:06 FW25 : %ASA-3-710003: UDP access denied by ACL from 61.58.100.17/54420 to GigabitEthernet0/4:169.74.146.170/DHCP	1
+Oct 13 2021 13:57:06 FW14 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/5:220.169.13.139/45397 to GigabitEthernet0/4:56.149.228.50/55281 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:57:06 FW04 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/5 , error code = Not responding , will try again.	0
+Oct 13 2021 13:57:06 FW01 : %ASA-5-718016: Received HELLO response from 44.197.15.138	0
+Oct 13 2021 13:57:06 FW21 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 174.13.231.2 to 143.223.39.53 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:06 FW04 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 175.29.159.37 to 49.246.164.118 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:07 FW00 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 198.168.37.140 to 25.91.186.230 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:07 FW17 : %ASA-3-319002: Acknowledge for route update for IP address 39.47.152.54 not received.	0
+Oct 13 2021 13:57:07 FW24 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 118.27.187.9 to 68.107.57.85 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:07 FW14 : %ASA-6-109005: Authentication succeeded for user user1 from 192.168.142.83/10931 to 50.196.112.162/53469 on interface GigabitEthernet0/1.	0
+Oct 13 2021 13:57:07 FW23 : %ASA-4-400013: IPS:2003 ICMP Redirect 26.143.247.197 to 112.208.213.19 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:07 FW23 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 17.229.82.96 to 177.14.54.124 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:07 FW07 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 85.210.56.48 to 204.115.178.117 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:07 FW25 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/3 changed state to up	0
+Oct 13 2021 13:57:07 FW13 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 76.216.21.69 to 155.87.210.54 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:08 FW24 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 78.21.45.239 to 64.56.83.6 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:08 FW09 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:57:08 FW10 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 23.122.208.188 to 70.209.48.205 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:08 FW14 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:08 FW16 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/2 waiting	0
+Oct 13 2021 13:57:08 FW06 : %ASA-4-400008: IPS:1102 IP Impossible Packet from 198.55.25.176 to 79.19.61.67 on interface GigabitEthernet0/0	1
+Oct 13 2021 13:57:08 FW21 : %ASA-4-733101: Host 101.42.227.170 is attacking. Current burst rate is 150 per second, max configured rate is 0 ; Current average rate is 532 per second, max configured rate is 0 ; Cumulative total count is 12453.	1
+Oct 13 2021 13:57:08 FW10 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 90.228.153.249 to 149.191.154.88 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:08 FW17 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 162.60.96.28 to 49.72.18.146 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:08 FW19 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:57:08 FW17 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/0:72.12.215.125/30772 to GigabitEthernet0/1:48.128.123.58/10148 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:57:09 FW18 : %ASA-5-718010: Sent HELLO response to 152.247.60.23	0
+Oct 13 2021 13:57:09 FW15 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/5 waiting	0
+Oct 13 2021 13:57:09 FW04 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:57:09 FW15 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 167.212.75.167 to 172.193.128.37 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:09 FW25 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/3:150.114.236.205/5616 to GigabitEthernet0/4:52.206.220.18/57259 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:57:09 FW11 : %ASA-4-733100: Scanning drop rate 1 exceeded. Current burst rate is 10 per second, max configured rate is 10 ; Current average rate is 245 per second, max configured rate is 5 ; Cumulative total count is 147409	1
+Oct 13 2021 13:57:09 FW15 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 132.212.67.143 to 85.29.31.210 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:09 FW06 : %ASA-7-713052: User user3 authenticated.	0
+Oct 13 2021 13:57:09 FW22 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 149.173.121.60 to 150.94.178.219 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:09 FW13 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 85.213.160.68 to 36.196.137.210 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:09 FW18 : %ASA-7-710005: TCP request discarded from 68.61.180.8/20558 to GigabitEthernet0/3:92.119.109.154/DNS	1
+Oct 13 2021 13:57:10 FW08 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:57:10 FW22 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:10 FW08 : %ASA-4-400037: IPS:6053 DNS Request for All Records 30.209.230.210 to 115.24.159.130 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:10 FW19 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 93.255.231.33 to 178.163.232.67 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:10 FW06 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 129.226.248.92 to 72.31.138.32 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:10 FW18 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:57:10 FW12 : %ASA-7-710006: ICMP request discarded from 55.107.21.188 to GigabitEthernet0/1:63.172.239.139	1
+Oct 13 2021 13:57:10 FW17 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 76.234.49.154 to 71.0.20.84 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:10 FW15 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 143.32.66.222 to 172.93.150.35 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:11 FW18 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 51.238.217.161 to 104.21.202.54 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:11 FW11 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 109.166.165.33 to 31.38.35.130 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:11 FW08 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 180.95.105.252 to 84.198.8.110 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:11 FW25 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 41.70.17.208 to 3.137.227.223 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:11 FW16 : %ASA-6-314004: RTSP client GigabitEthernet0/2: 213.144.164.193 accessed RTSP URL https://www.tucker-turner.com/	0
+Oct 13 2021 13:57:11 FW20 : %ASA-5-718010: Sent HELLO response to 188.191.74.134	0
+Oct 13 2021 13:57:11 FW21 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/5: 62.249.121.166/29032 to laddr GigabitEthernet0/4: 192.168.45.115/13978	0
+Oct 13 2021 13:57:11 FW06 : %ASA-6-611101: User authentication succeeded: IP, 68.124.215.46 : Uname: user18	0
+Oct 13 2021 13:57:12 FW00 : %ASA-4-400012: IPS:2002 ICMP Source Quench 155.250.154.37 to 158.96.183.49 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:12 FW10 : %ASA-4-400023: IPS:2150 Fragmented ICMP Traffic from 95.164.149.60 to 175.246.25.176 on interface GigabitEthernet0/2	1
+Oct 13 2021 13:57:12 FW08 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:12 FW09 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 206.99.15.119 to 58.200.177.244 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:12 FW21 : %ASA-6-109005: Authentication succeeded for user user1 from 172.18.75.158/63102 to 139.142.187.80/137 on interface GigabitEthernet0/1.	0
+Oct 13 2021 13:57:12 FW17 : %ASA-5-718016: Received HELLO response from 68.225.218.152	0
+Oct 13 2021 13:57:12 FW09 : %ASA-6-109001: Auth start for user user14 from 172.29.174.118/59696 to 156.75.197.120/30502	0
+Oct 13 2021 13:57:12 FW20 : %ASA-6-303002: FTP connection from GigabitEthernet0/3:115.165.214.162/27931 to GigabitEthernet0/3: 67.133.112.142/46272 , user user8 action file filename	0
+Oct 13 2021 13:57:12 FW20 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 176.206.47.128 to 62.49.156.126 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:13 FW10 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:13 FW23 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/5 waiting	0
+Oct 13 2021 13:57:13 FW01 : %ASA-4-400034: IPS:6050 DNS HINFO Request 200.185.1.228 to 99.163.27.146 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:13 FW07 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 106.23.149.164 to 27.158.99.3 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:13 FW17 : %ASA-3-319001: Acknowledge for arp update for IP address 11.16.211.74 not received.	0
+Oct 13 2021 13:57:13 FW21 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/3 changed state to up	0
+Oct 13 2021 13:57:13 FW22 : %ASA-6-611101: User authentication succeeded: IP, 139.187.241.37 : Uname: user19	0
+Oct 13 2021 13:57:13 FW03 : %ASA-2-108003: Terminating ESMTP connection; malicious pattern detected in the mail address from GigabitEthernet0/5:188.154.240.178/53367 to GigabitEthernet0/0:199.204.234.214/51484.	1
+Oct 13 2021 13:57:13 FW10 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 32.18.196.159 to 29.45.197.7 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:13 FW12 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:57:13 FW08 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/1: 9.215.176.207/25640 to laddr GigabitEthernet0/2: 10.197.248.150/56746	0
+Oct 13 2021 13:57:13 FW21 : %ASA-4-400013: IPS:2003 ICMP Redirect 91.255.165.248 to 49.58.136.229 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:14 FW18 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 158.22.140.131 to 204.84.108.65 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:14 FW18 : %ASA-4-400014: IPS:2004 ICMP Echo Request 92.180.165.38 to 170.36.122.165 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:14 FW16 : %ASA-5-718010: Sent HELLO response to 54.19.235.5	0
+Oct 13 2021 13:57:14 FW06 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 37.156.215.248 to 159.198.10.227 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:14 FW05 : %ASA-6-605004: Login denied from 97.13.3.102/2696 to GigabitEthernet0/5:125.155.191.91/NTP for user user13	1
+Oct 13 2021 13:57:14 FW03 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 136.37.69.109 to 173.139.77.85 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:14 FW02 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/1:136.17.228.10/46075 to GigabitEthernet0/2:187.233.1.92/50991 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:57:15 FW14 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/4:48.201.70.75/22443 to GigabitEthernet0/2:12.105.156.53/50730 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:57:15 FW07 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:15 FW18 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/2 , error code = Not responding , will try again.	0
+Oct 13 2021 13:57:15 FW20 : %ASA-5-611103: User logged out: Uname: user20	0
+Oct 13 2021 13:57:15 FW06 : %ASA-3-304003: URL Server 153.252.201.159 timed out URL http://www.hurst.net/	0
+Oct 13 2021 13:57:15 FW10 : %ASA-5-507001: Terminating TCP-Proxy connection from GigabitEthernet0/3:131.163.2.59/49745 to GigabitEthernet0/3:219.20.37.89/27974 - reassembly limit of 156000 bytes exceeded	0
+Oct 13 2021 13:57:15 FW10 : %ASA-7-718021: Sent KEEPALIVE response to 30.190.96.108	0
+Oct 13 2021 13:57:15 FW19 : %ASA-4-400014: IPS:2004 ICMP Echo Request 96.30.162.169 to 88.60.119.95 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:15 FW03 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 219.103.150.183 to 111.226.0.93 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:15 FW18 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:15 FW08 : %ASA-1-101001: (Primary) Failover cable OK.	0
+Oct 13 2021 13:57:15 FW24 : %ASA-4-400034: IPS:6050 DNS HINFO Request 147.190.53.253 to 114.176.222.172 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:16 FW01 : %ASA-4-400013: IPS:2003 ICMP Redirect 213.241.72.48 to 100.42.34.126 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:16 FW17 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:57:16 FW22 : %ASA-4-400014: IPS:2004 ICMP Echo Request 38.99.97.160 to 172.17.153.34 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:16 FW12 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 213.191.111.5 to 99.48.0.187 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:16 FW04 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:16 FW09 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:57:16 FW06 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 121.58.110.235 to 54.209.130.139 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:16 FW08 : %ASA-4-400012: IPS:2002 ICMP Source Quench 51.188.170.243 to 14.17.192.57 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:16 FW11 : %ASA-6-605005: Login permitted from 144.2.175.108/30922 to GigabitEthernet0/3:137.71.222.68/DHCP for user user2	0
+Oct 13 2021 13:57:16 FW13 : %ASA-6-611101: User authentication succeeded: IP, 194.224.30.20 : Uname: user6	0
+Oct 13 2021 13:57:17 FW25 : %ASA-4-400014: IPS:2004 ICMP Echo Request 73.220.159.223 to 202.25.240.97 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:17 FW06 : %ASA-7-713052: User user18 authenticated.	0
+Oct 13 2021 13:57:17 FW05 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/5 changed state to up	0
+Oct 13 2021 13:57:17 FW15 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 205.176.43.25 to 210.46.110.146 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:17 FW00 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:57:17 FW19 : %ASA-3-319002: Acknowledge for route update for IP address 96.18.137.212 not received.	0
+Oct 13 2021 13:57:17 FW13 : %ASA-4-400020: IPS:2010 ICMP Information Reply 80.34.123.136 to 26.249.74.163 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:17 FW17 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/5 , error code = Not responding , will try again.	0
+Oct 13 2021 13:57:17 FW24 : %ASA-4-400012: IPS:2002 ICMP Source Quench 150.160.63.0 to 99.148.85.120 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:17 FW02 : %ASA-6-109001: Auth start for user user17 from 10.18.60.244/51681 to 152.216.251.221/37412	0
+Oct 13 2021 13:57:17 FW05 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:17 FW02 : %ASA-7-710002: UDP access permitted from 13.2.110.152/17308 to GigabitEthernet0/4:135.14.36.31/DHCP	0
+Oct 13 2021 13:57:18 FW09 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:18 FW10 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:57:18 FW19 : %ASA-6-302003: Built H245 connection for foreign_address 168.197.165.85/5484 local_address 172.18.37.184 /46585	0
+Oct 13 2021 13:57:18 FW03 : %ASA-4-400040: IPS:6102 RPC Dump 202.255.183.143 to 194.251.56.118 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:18 FW16 : %ASA-7-710002: UDP access permitted from 76.77.215.226/42323 to GigabitEthernet0/3:90.108.195.47/DHCP	0
+Oct 13 2021 13:57:18 FW04 : %ASA-4-400040: IPS:6102 RPC Dump 130.147.126.45 to 201.25.70.57 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:18 FW08 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 155.50.188.254 to 205.217.20.8 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:18 FW01 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:18 FW07 : %ASA-4-400037: IPS:6053 DNS Request for All Records 102.208.204.82 to 105.193.121.49 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:18 FW07 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 191.33.198.240 to 131.93.71.53 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:19 FW06 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 166.250.226.101 to 154.74.141.47 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:19 FW12 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 171.144.171.21 to 197.74.191.172 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:19 FW00 : %ASA-6-314004: RTSP client GigabitEthernet0/0: 196.32.27.189 accessed RTSP URL http://dunlap.com/	0
+Oct 13 2021 13:57:19 FW07 : %ASA-6-314004: RTSP client GigabitEthernet0/2: 173.117.93.137 accessed RTSP URL http://stein.biz/	0
+Oct 13 2021 13:57:19 FW15 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:19 FW25 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:19 FW11 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 144.81.80.197 to 13.53.187.144 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:19 FW24 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/0 , error code = Not responding , will try again.	0
+Oct 13 2021 13:57:19 FW20 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 97.93.170.54 to 72.214.65.86 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:19 FW09 : %ASA-5-611103: User logged out: Uname: user4	0
+Oct 13 2021 13:57:19 FW20 : %ASA-6-314004: RTSP client GigabitEthernet0/2: 65.113.50.14 accessed RTSP URL https://www.perez.info/	0
+Oct 13 2021 13:57:20 FW18 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:57:20 FW21 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:20 FW06 : %ASA-6-303002: FTP connection from GigabitEthernet0/2:101.84.19.250/1288 to GigabitEthernet0/3: 115.180.200.213/43319 , user user15 action file filename	0
+Oct 13 2021 13:57:20 FW20 : %ASA-5-718016: Received HELLO response from 192.48.114.112	0
+Oct 13 2021 13:57:20 FW15 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:20 FW13 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 95.9.244.28 to 97.78.4.72 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:20 FW20 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 41.141.164.19 to 113.15.14.120 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:20 FW21 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 55.112.19.238 to 24.225.245.184 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:20 FW13 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/4 changed state to up	0
+Oct 13 2021 13:57:20 FW00 : %ASA-6-611101: User authentication succeeded: IP, 79.172.62.8 : Uname: user16	0
+Oct 13 2021 13:57:20 FW10 : %ASA-4-400037: IPS:6053 DNS Request for All Records 154.235.117.8 to 173.58.27.42 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:20 FW21 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 27.103.158.140 to 106.125.57.126 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:21 FW06 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/0 changed state to up	0
+Oct 13 2021 13:57:21 FW09 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/3 waiting	0
+Oct 13 2021 13:57:21 FW16 : %ASA-4-400012: IPS:2002 ICMP Source Quench 68.194.45.190 to 55.208.27.80 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:21 FW12 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 65.74.136.226 to 38.209.132.254 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:21 FW15 : %ASA-3-319002: Acknowledge for route update for IP address 55.162.108.135 not received.	0
+Oct 13 2021 13:57:21 FW05 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:21 FW16 : %ASA-6-109005: Authentication succeeded for user user18 from 192.168.151.199/38498 to 201.44.37.56/61444 on interface GigabitEthernet0/0.	0
+Oct 13 2021 13:57:21 FW00 : %ASA-6-109001: Auth start for user user10 from 172.16.164.132/50952 to 94.218.17.197/8632	0
+Oct 13 2021 13:57:21 FW16 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:57:21 FW03 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 146.149.47.174 to 106.250.81.15 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:21 FW17 : %ASA-4-400034: IPS:6050 DNS HINFO Request 161.82.39.0 to 97.62.91.14 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:22 FW12 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 203.177.123.187 to 145.172.14.123 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:22 FW03 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:22 FW02 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:22 FW08 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/4 during idb initialization	0
+Oct 13 2021 13:57:22 FW11 : %ASA-4-733101: Host 188.120.214.218 is attacking. Current burst rate is 150 per second, max configured rate is 0 ; Current average rate is 532 per second, max configured rate is 0 ; Cumulative total count is 12453.	1
+Oct 13 2021 13:57:22 FW16 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 10.78.253.44 to 170.40.90.249 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:22 FW18 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/4 changed state to up	0
+Oct 13 2021 13:57:22 FW02 : %ASA-3-319002: Acknowledge for route update for IP address 72.23.124.5 not received.	0
+Oct 13 2021 13:57:22 FW06 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/2 waiting	0
+Oct 13 2021 13:57:22 FW06 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:22 FW07 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 24.65.97.173 to 134.110.89.146 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:22 FW24 : %ASA-4-400024: IPS:2151 Large ICMP Traffic from 47.149.126.104 to 67.125.175.19 on interface GigabitEthernet0/0	1
+Oct 13 2021 13:57:22 FW00 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 214.219.159.39 to 199.104.237.56 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:22 FW24 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 145.61.24.103 to 156.168.229.239 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:23 FW00 : %ASA-6-314004: RTSP client GigabitEthernet0/4: 50.145.212.207 accessed RTSP URL http://www.cohen.com/	0
+Oct 13 2021 13:57:23 FW25 : %ASA-5-502111: New group policy added: name: acl_int Type: internal	0
+Oct 13 2021 13:57:23 FW17 : %ASA-7-713052: User user3 authenticated.	0
+Oct 13 2021 13:57:23 FW07 : %ASA-4-400037: IPS:6053 DNS Request for All Records 125.107.223.170 to 205.9.164.129 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:23 FW21 : %ASA-4-400040: IPS:6102 RPC Dump 6.237.15.251 to 72.164.57.179 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:23 FW22 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/4 changed state to up	0
+Oct 13 2021 13:57:23 FW04 : %ASA-4-400040: IPS:6102 RPC Dump 114.24.9.132 to 151.56.50.192 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:23 FW22 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 55.1.79.71 to 22.54.100.21 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:23 FW10 : %ASA-3-304003: URL Server 209.29.124.74 timed out URL http://www.warner.com/	0
+Oct 13 2021 13:57:24 FW16 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:24 FW06 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:57:24 FW20 : %ASA-6-109005: Authentication succeeded for user user11 from 10.55.178.248/41981 to 19.80.139.218/5989 on interface GigabitEthernet0/2.	0
+Oct 13 2021 13:57:24 FW08 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/4 changed state to up	0
+Oct 13 2021 13:57:24 FW10 : %ASA-4-400037: IPS:6053 DNS Request for All Records 97.97.236.36 to 107.209.84.213 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:24 FW13 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 48.52.76.226 to 139.189.94.54 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:24 FW15 : %ASA-3-212003: Unable to receive an SNMP request on interface GigabitEthernet0/0 , error code = Not responding , will try again.	0
+Oct 13 2021 13:57:24 FW07 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:24 FW13 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 142.242.31.223 to 197.140.50.72 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:24 FW02 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:24 FW07 : %ASA-3-319002: Acknowledge for route update for IP address 203.76.240.68 not received.	0
+Oct 13 2021 13:57:24 FW18 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 212.153.45.88 to 21.23.133.129 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:24 FW22 : %ASA-7-718023: Received KEEPALIVE response from 220.31.210.134	0
+Oct 13 2021 13:57:24 FW22 : %ASA-4-400013: IPS:2003 ICMP Redirect 36.29.43.246 to 185.239.168.123 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:25 FW19 : %ASA-6-611101: User authentication succeeded: IP, 109.7.57.0 : Uname: user18	0
+Oct 13 2021 13:57:25 FW04 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/5 changed state to up	0
+Oct 13 2021 13:57:25 FW06 : %ASA-4-400020: IPS:2010 ICMP Information Reply 57.50.245.203 to 205.184.85.22 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:25 FW10 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 54.203.199.137 to 135.235.252.74 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:25 FW17 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 203.13.242.46 to 125.115.52.97 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:25 FW08 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 117.190.212.89 to 12.252.31.91 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:25 FW10 : %ASA-4-400020: IPS:2010 ICMP Information Reply 2.115.181.118 to 194.194.74.111 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:25 FW05 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/4 waiting	0
+Oct 13 2021 13:57:25 FW15 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:25 FW04 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:25 FW16 : %ASA-3-304003: URL Server 68.202.8.113 timed out URL http://powell-valenzuela.info/	0
+Oct 13 2021 13:57:26 FW17 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 210.108.221.21 to 68.8.18.30 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:26 FW11 : %ASA-6-314004: RTSP client GigabitEthernet0/2: 59.180.234.205 accessed RTSP URL https://reese.org/	0
+Oct 13 2021 13:57:26 FW21 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 51.166.242.152 to 204.74.241.120 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:26 FW05 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 128.238.159.91 to 192.73.237.167 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:26 FW12 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 126.89.88.45 to 76.236.74.180 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:26 FW04 : %ASA-5-718010: Sent HELLO response to 147.207.65.137	0
+Oct 13 2021 13:57:26 FW16 : %ASA-3-304003: URL Server 151.230.222.117 timed out URL http://powell-stephens.com/	0
+Oct 13 2021 13:57:26 FW12 : %ASA-5-718016: Received HELLO response from 155.104.102.112	0
+Oct 13 2021 13:57:27 FW22 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/0 during idb initialization	0
+Oct 13 2021 13:57:27 FW16 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:27 FW05 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 150.31.7.78 to 203.248.56.232 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:27 FW15 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:27 FW03 : %ASA-6-302003: Built H245 connection for foreign_address 203.94.154.31/21242 local_address 192.168.240.192 /27034	0
+Oct 13 2021 13:57:27 FW16 : %ASA-3-319002: Acknowledge for route update for IP address 26.19.13.74 not received.	0
+Oct 13 2021 13:57:27 FW13 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:57:27 FW00 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 198.39.20.187 to 179.2.119.176 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:27 FW19 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:57:27 FW06 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:27 FW13 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 84.174.109.31 to 15.41.241.153 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:27 FW21 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 69.113.145.203 to 1.151.219.179 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:27 FW10 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 117.161.147.245 to 164.144.208.150 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:28 FW07 : %ASA-3-304003: URL Server 137.130.23.100 timed out URL https://www.berry-davis.com/	0
+Oct 13 2021 13:57:28 FW03 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:28 FW04 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 152.19.51.156 to 92.106.252.223 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:28 FW17 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 25.41.181.104 to 77.176.117.122 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:28 FW01 : %ASA-6-605005: Login permitted from 117.137.208.224/52927 to GigabitEthernet0/2:207.147.175.77/DHCP for user user13	0
+Oct 13 2021 13:57:28 FW21 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:28 FW22 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 142.97.62.109 to 129.127.70.28 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:28 FW24 : %ASA-4-400004: IPS:1004 IP options-Loose Source Route 74.7.103.225 to 50.144.53.126 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:28 FW11 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:28 FW21 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 118.25.239.99 to 147.101.127.228 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:29 FW13 : %ASA-6-302003: Built H245 connection for foreign_address 154.162.255.137/49561 local_address 172.24.41.79 /61764	0
+Oct 13 2021 13:57:29 FW01 : %ASA-4-400034: IPS:6050 DNS HINFO Request 66.61.191.58 to 148.184.12.114 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:29 FW19 : %ASA-5-611103: User logged out: Uname: user12	0
+Oct 13 2021 13:57:29 FW16 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 209.99.248.75 to 137.185.17.233 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:29 FW08 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 42.207.4.239 to 142.126.234.52 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:29 FW20 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:29 FW01 : %ASA-4-400042: IPS:6150 ypserv (YP server daemon) Portmap Request 110.203.154.202 to 142.63.162.203 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:29 FW13 : %ASA-4-400040: IPS:6102 RPC Dump 52.252.136.190 to 130.103.171.14 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:29 FW09 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 181.8.207.103 to 106.20.37.90 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:30 FW10 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:30 FW12 : %ASA-4-733100: Inspect drop rate 1 exceeded. Current burst rate is 142 per second, max configured rate is 50 ; Current average rate is 4122 per second, max configured rate is 100 ; Cumulative total count is 453153	1
+Oct 13 2021 13:57:30 FW23 : %ASA-7-710002: UDP access permitted from 8.185.96.40/40819 to GigabitEthernet0/0:174.161.126.1/DNS	0
+Oct 13 2021 13:57:30 FW00 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:30 FW14 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 74.61.48.203 to 180.190.226.44 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:30 FW16 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 57.3.129.150 to 201.142.48.219 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:30 FW04 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 110.145.34.0 to 33.62.15.141 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:30 FW09 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 202.26.110.55 to 167.198.160.12 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:30 FW24 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 193.125.232.162 to 58.202.96.181 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:31 FW19 : %ASA-7-718023: Received KEEPALIVE response from 100.162.186.236	0
+Oct 13 2021 13:57:31 FW22 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 205.136.51.33 to 173.102.61.52 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:31 FW05 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:31 FW03 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 76.76.60.62 to 73.208.12.9 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:31 FW22 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 203.46.253.169 to 107.176.229.12 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:31 FW13 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 161.236.234.196 to 129.218.214.120 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:31 FW22 : %ASA-7-713052: User user7 authenticated.	0
+Oct 13 2021 13:57:31 FW05 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:31 FW12 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:31 FW16 : %ASA-6-303002: FTP connection from GigabitEthernet0/2:61.127.61.124/18077 to GigabitEthernet0/4: 114.31.199.13/46210 , user user4 action file filename	0
+Oct 13 2021 13:57:31 FW10 : %ASA-3-304003: URL Server 126.163.22.75 timed out URL https://www.torres-hartman.com/	0
+Oct 13 2021 13:57:32 FW14 : %ASA-6-611101: User authentication succeeded: IP, 166.45.234.132 : Uname: user7	0
+Oct 13 2021 13:57:32 FW13 : %ASA-4-733100: Conn limit drop rate 1 exceeded. Current burst rate is 10 per second, max configured rate is 800 ; Current average rate is 2240 per second, max configured rate is 1500 ; Cumulative total count is 545132	1
+Oct 13 2021 13:57:32 FW07 : %ASA-6-302003: Built H245 connection for foreign_address 209.223.206.126/6724 local_address 172.31.230.29 /58625	0
+Oct 13 2021 13:57:32 FW24 : %ASA-6-303002: FTP connection from GigabitEthernet0/3:1.48.164.208/60535 to GigabitEthernet0/5: 162.54.113.231/35528 , user user19 action file filename	0
+Oct 13 2021 13:57:32 FW07 : %ASA-6-314004: RTSP client GigabitEthernet0/2: 89.114.92.118 accessed RTSP URL https://parker-miller.com/	0
+Oct 13 2021 13:57:32 FW03 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 197.98.228.177 to 8.75.254.101 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:32 FW18 : %ASA-6-109005: Authentication succeeded for user user3 from 172.26.175.226/60623 to 150.145.12.254/58825 on interface GigabitEthernet0/3.	0
+Oct 13 2021 13:57:32 FW16 : %ASA-4-507002: Data copy in proxy-mode exceeded the buffer limit	0
+Oct 13 2021 13:57:32 FW00 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:32 FW20 : %ASA-4-400013: IPS:2003 ICMP Redirect 174.41.232.128 to 143.140.126.125 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:33 FW25 : %ASA-6-611101: User authentication succeeded: IP, 17.25.247.237 : Uname: user8	0
+Oct 13 2021 13:57:33 FW10 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/5 during idb initialization	0
+Oct 13 2021 13:57:33 FW24 : %ASA-4-405001: Received ARP response collision from 89.39.237.59/28:b4:96:fb:f2:b9 on interface GigabitEthernet0/5 with existing ARP entry 17.49.41.36/f7:88:2c:ed:3b:d5.	1
+Oct 13 2021 13:57:33 FW25 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/0 during idb initialization	0
+Oct 13 2021 13:57:33 FW23 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 221.202.223.146 to 161.79.53.171 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:33 FW09 : %ASA-4-411001: Line protocol on interface GigabitEthernet0/0 changed state to up	0
+Oct 13 2021 13:57:33 FW02 : %ASA-4-400040: IPS:6102 RPC Dump 203.204.101.179 to 25.196.230.54 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:33 FW12 : %ASA-6-605005: Login permitted from 198.43.232.130/56527 to GigabitEthernet0/1:34.33.255.240/DHCP for user user4	0
+Oct 13 2021 13:57:33 FW17 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:33 FW24 : %ASA-6-611101: User authentication succeeded: IP, 177.215.69.92 : Uname: user7	0
+Oct 13 2021 13:57:33 FW09 : %ASA-6-303002: FTP connection from GigabitEthernet0/2:38.147.87.92/53100 to GigabitEthernet0/4: 143.249.242.226/36706 , user user6 action file filename	0
+Oct 13 2021 13:57:34 FW13 : %ASA-3-319001: Acknowledge for arp update for IP address 193.97.84.35 not received.	0
+Oct 13 2021 13:57:34 FW00 : %ASA-3-319001: Acknowledge for arp update for IP address 50.239.7.29 not received.	0
+Oct 13 2021 13:57:34 FW07 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 216.11.196.84 to 18.43.213.15 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:34 FW06 : %ASA-6-303002: FTP connection from GigabitEthernet0/2:188.139.156.127/23815 to GigabitEthernet0/2: 179.135.136.200/41951 , user user16 action file filename	0
+Oct 13 2021 13:57:34 FW21 : %ASA-4-400016: IPS:2006 ICMP Parameter Problem on Datagram 188.15.108.8 to 141.31.37.172 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:34 FW05 : %ASA-5-718010: Sent HELLO response to 142.46.48.110	0
+Oct 13 2021 13:57:34 FW08 : %ASA-6-302003: Built H245 connection for foreign_address 162.30.212.22/9794 local_address 192.168.4.106 /17262	0
+Oct 13 2021 13:57:34 FW17 : %ASA-6-314004: RTSP client GigabitEthernet0/5: 148.113.242.106 accessed RTSP URL https://reeves-wright.net/	0
+Oct 13 2021 13:57:34 FW01 : %ASA-6-605005: Login permitted from 46.79.231.1/47195 to GigabitEthernet0/3:120.171.251.148/NTP for user user5	0
+Oct 13 2021 13:57:35 FW00 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 211.176.30.118 to 19.242.112.133 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:35 FW11 : %ASA-6-109001: Auth start for user user14 from 10.97.211.198/41 to 222.185.153.192/59542	0
+Oct 13 2021 13:57:35 FW07 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:35 FW11 : %ASA-4-400040: IPS:6102 RPC Dump 31.15.63.230 to 99.230.225.171 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:35 FW08 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 213.66.65.218 to 122.32.34.203 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:35 FW05 : %ASA-4-400014: IPS:2004 ICMP Echo Request 128.7.65.35 to 159.229.255.236 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:35 FW12 : %ASA-4-400020: IPS:2010 ICMP Information Reply 177.36.95.168 to 65.72.222.99 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:36 FW12 : %ASA-5-713155: DNS lookup for Primary VPN Server vpn_concentrator successfully resolved after a previous failure. Resetting any Backup Server init.	0
+Oct 13 2021 13:57:36 FW06 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/4 during idb initialization	0
+Oct 13 2021 13:57:36 FW14 : %ASA-6-605005: Login permitted from 171.100.92.53/53003 to GigabitEthernet0/5:78.186.34.185/DHCP for user user1	0
+Oct 13 2021 13:57:36 FW19 : %ASA-4-400020: IPS:2010 ICMP Information Reply 73.249.53.0 to 14.75.32.152 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:36 FW22 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/4 waiting	0
+Oct 13 2021 13:57:36 FW05 : %ASA-7-713052: User user4 authenticated.	0
+Oct 13 2021 13:57:36 FW14 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:36 FW22 : %ASA-7-710005: TCP request discarded from 4.101.189.18/60274 to GigabitEthernet0/3:186.62.235.115/DHCP	1
+Oct 13 2021 13:57:36 FW25 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 29.234.154.248 to 106.116.195.205 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:36 FW08 : %ASA-4-400034: IPS:6050 DNS HINFO Request 144.235.227.159 to 101.135.69.83 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:36 FW21 : %ASA-7-713052: User user12 authenticated.	0
+Oct 13 2021 13:57:36 FW00 : %ASA-4-401001: Shuns cleared	0
+Oct 13 2021 13:57:36 FW08 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 212.161.196.19 to 95.93.31.165 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:36 FW04 : %ASA-5-611103: User logged out: Uname: user7	0
+Oct 13 2021 13:57:36 FW25 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 12.75.226.96 to 63.198.33.164 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:37 FW00 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 83.4.182.119 to 182.88.124.166 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:37 FW24 : %ASA-4-400014: IPS:2004 ICMP Echo Request 203.170.34.95 to 205.87.52.15 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:37 FW09 : %ASA-6-303002: FTP connection from GigabitEthernet0/4:152.210.0.80/4598 to GigabitEthernet0/3: 39.20.89.203/40782 , user user6 action file filename	0
+Oct 13 2021 13:57:37 FW13 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 180.67.197.233 to 63.237.121.110 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:37 FW03 : %ASA-4-400045: IPS:6153 ypupdated (YP update daemon) Portmap Request 106.62.35.156 to 66.121.77.195 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:37 FW21 : %ASA-4-400034: IPS:6050 DNS HINFO Request 173.161.53.224 to 145.61.244.193 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:37 FW13 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 26.1.79.123 to 55.47.224.108 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:38 FW01 : %ASA-7-718021: Sent KEEPALIVE response to 8.4.16.179	0
+Oct 13 2021 13:57:38 FW07 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/3 waiting	0
+Oct 13 2021 13:57:38 FW15 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 37.1.15.4 to 12.202.94.120 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:38 FW15 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 50.165.49.43 to 106.169.139.5 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:38 FW22 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 7.204.222.51 to 147.79.147.183 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:38 FW05 : %ASA-1-104500: (Primary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:38 FW05 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 199.56.43.107 to 183.85.224.118 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:38 FW11 : %ASA-7-713052: User user10 authenticated.	0
+Oct 13 2021 13:57:38 FW13 : %ASA-4-400020: IPS:2010 ICMP Information Reply 26.49.226.28 to 126.217.22.110 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:38 FW22 : %ASA-4-400015: IPS:2005 ICMP Time Exceeded for a Datagram 60.9.105.240 to 141.162.147.31 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:39 FW04 : %ASA-4-400000: IPS:1000 IP options-Bad Option List from 24.62.110.84 to 167.185.137.38 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:39 FW01 : %ASA-4-400010: IPS:2000 ICMP Echo Reply 143.130.144.230 to 184.175.221.233 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:39 FW15 : %ASA-4-400039: IPS:6101 RPC Port Unregistration 211.109.94.242 to 8.31.106.61 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:39 FW11 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 133.9.71.235 to 110.114.39.64 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:39 FW08 : %ASA-6-314004: RTSP client GigabitEthernet0/1: 221.51.20.87 accessed RTSP URL http://www.nelson.biz/	0
+Oct 13 2021 13:57:39 FW21 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/1 during idb initialization	0
+Oct 13 2021 13:57:39 FW21 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 199.226.137.181 to 32.204.15.167 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:40 FW22 : %ASA-4-400040: IPS:6102 RPC Dump 38.221.167.107 to 24.193.248.103 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:40 FW17 : %ASA-4-411004: Configuration status on interface GigabitEthernet0/4 changed state to up	0
+Oct 13 2021 13:57:40 FW17 : %ASA-6-109005: Authentication succeeded for user user12 from 172.29.241.165/22953 to 218.172.67.151/36826 on interface GigabitEthernet0/3.	0
+Oct 13 2021 13:57:40 FW07 : %ASA-4-733100: Inspect drop rate 1 exceeded. Current burst rate is 142 per second, max configured rate is 50 ; Current average rate is 4122 per second, max configured rate is 100 ; Cumulative total count is 453153	1
+Oct 13 2021 13:57:40 FW18 : %ASA-4-400020: IPS:2010 ICMP Information Reply 37.229.238.27 to 214.247.28.162 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:40 FW22 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 206.150.252.159 to 62.253.249.224 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:40 FW08 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:57:40 FW14 : %ASA-3-318109: OSPFv3 has received an unexpected message	0
+Oct 13 2021 13:57:40 FW17 : %ASA-3-319002: Acknowledge for route update for IP address 85.160.216.8 not received.	0
+Oct 13 2021 13:57:40 FW16 : %ASA-6-109001: Auth start for user user1 from 172.18.35.212/50440 to 214.227.126.73/49548	0
+Oct 13 2021 13:57:40 FW07 : %ASA-4-209003: Fragment database limit of number exceeded: src = 32.39.91.123 , dest = 191.128.249.116 , proto = ICMP , id = 8998	1
+Oct 13 2021 13:57:40 FW14 : %ASA-4-400049: IPS:6180 rexd (remote execution daemon) Attempt 194.7.148.163 to 207.182.0.22 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:41 FW12 : %ASA-4-400021: IPS:2011 ICMP Address Mask Request 9.16.130.36 to 146.98.202.125 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:41 FW12 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 175.115.177.104 to 63.248.155.97 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:41 FW13 : %ASA-4-400012: IPS:2002 ICMP Source Quench 36.103.1.79 to 125.48.199.232 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:41 FW20 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 179.124.24.145 to 92.147.219.135 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:41 FW03 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 122.252.126.98 to 77.104.44.215 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:41 FW25 : %ASA-4-400034: IPS:6050 DNS HINFO Request 120.187.83.217 to 73.199.175.20 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:41 FW21 : %ASA-4-400013: IPS:2003 ICMP Redirect 173.57.0.158 to 183.144.233.166 on interface GigabitEthernet0/4	0
+Oct 13 2021 13:57:42 FW12 : %ASA-3-304003: URL Server 135.109.5.177 timed out URL http://www.leon.org/	0
+Oct 13 2021 13:57:42 FW07 : %ASA-5-611103: User logged out: Uname: user11	0
+Oct 13 2021 13:57:42 FW04 : %ASA-7-710006: TCP request discarded from 145.215.163.200 to GigabitEthernet0/4:159.96.49.72	1
+Oct 13 2021 13:57:42 FW02 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/1: 11.244.98.78/27506 to laddr GigabitEthernet0/1: 10.191.77.126/18161	0
+Oct 13 2021 13:57:42 FW14 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 95.50.158.160 to 56.76.88.184 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:42 FW09 : %ASA-4-733105: TD_SYSLOG_TCP_INTERCEPT_BURST_RATE_EXCEED	1
+Oct 13 2021 13:57:42 FW21 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/3 during idb initialization	0
+Oct 13 2021 13:57:42 FW02 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 138.97.116.134 to 214.12.242.128 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:42 FW17 : %ASA-6-302033: Pre-allocated H323 GUP Connection for faddr GigabitEthernet0/0: 136.86.176.115/23295 to laddr GigabitEthernet0/5: 192.168.98.14/63771	0
+Oct 13 2021 13:57:43 FW21 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:57:43 FW18 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 101.123.94.105 to 14.249.131.226 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:43 FW03 : %ASA-7-718021: Sent KEEPALIVE response to 218.187.198.36	0
+Oct 13 2021 13:57:43 FW03 : %ASA-4-419002: Received duplicate TCP SYN from GigabitEthernet0/4:39.10.247.146/7811 to GigabitEthernet0/4:89.244.72.26/53457 with different initial sequence number.	1
+Oct 13 2021 13:57:43 FW19 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:43 FW00 : %ASA-4-400040: IPS:6102 RPC Dump 85.109.146.119 to 212.190.57.218 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:43 FW13 : %ASA-6-605005: Login permitted from 168.79.45.65/18888 to GigabitEthernet0/0:187.147.247.245/DHCP for user user18	0
+Oct 13 2021 13:57:43 FW10 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 75.24.127.66 to 138.157.54.96 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:43 FW00 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/3 during idb initialization	0
+Oct 13 2021 13:57:43 FW17 : %ASA-4-400005: IPS:1005 IP options-SATNET ID 192.79.147.67 to 216.56.227.39 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:43 FW19 : %ASA-4-400034: IPS:6050 DNS HINFO Request 204.131.81.100 to 42.4.2.37 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:44 FW11 : %ASA-4-400030: IPS:3154 FTP Improper Port Specified from 121.159.1.226 to 153.82.143.63 on interface GigabitEthernet0/0	1
+Oct 13 2021 13:57:44 FW21 : %ASA-7-718021: Sent KEEPALIVE response to 200.32.201.152	0
+Oct 13 2021 13:57:44 FW25 : %ASA-1-105003: (Primary) Monitoring on interface GigabitEthernet0/4 waiting	0
+Oct 13 2021 13:57:44 FW19 : %ASA-3-318107: OSPF is enabled on GigabitEthernet0/5 during idb initialization	0
+Oct 13 2021 13:57:44 FW19 : %ASA-1-104500: (Secondary) Switching to ACTIVE (cause: reason)	0
+Oct 13 2021 13:57:44 FW01 : %ASA-1-104502: (Primary) Becoming Backup unit failed.	0
+Oct 13 2021 13:57:44 FW17 : %ASA-3-319002: Acknowledge for route update for IP address 185.131.198.190 not received.	0
+Oct 13 2021 13:57:44 FW02 : %ASA-6-605005: Login permitted from 201.58.187.103/42188 to GigabitEthernet0/4:119.217.102.243/NTP for user user11	0
+Oct 13 2021 13:57:44 FW08 : %ASA-7-713164: The Firewall Server has requested a list of active user sessions	0
+Oct 13 2021 13:57:44 FW25 : %ASA-4-400034: IPS:6050 DNS HINFO Request 149.196.222.208 to 83.233.139.174 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:44 FW07 : %ASA-4-400046: IPS:6154 ypxfrd (YP transfer daemon) Portmap Request 48.101.47.143 to 94.3.103.30 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:44 FW21 : %ASA-4-400006: IPS:1006 IP options-Strict Source Route 45.64.52.84 to 2.36.199.58 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:45 FW12 : %ASA-4-400047: IPS:6155 mountd (mount daemon) Portmap Request 53.25.190.124 to 25.71.54.30 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:45 FW07 : %ASA-3-322002: ARP inspection check failed for arp request received from host 3e:10:76:2e:d5:46 on interface GigabitEthernet0/5. This host is advertising MAC Address 85:60:28:bb:56:a1 for IP Address 11.86.46.107, which is statically bound to MAC Address a9:0e:b0:74:3d:78.	1
+Oct 13 2021 13:57:45 FW21 : %ASA-7-718021: Sent KEEPALIVE response to 64.36.25.245	0
+Oct 13 2021 13:57:45 FW13 : %ASA-4-400017: IPS:2007 ICMP Timestamp Request 119.36.222.38 to 30.183.224.72 on interface GigabitEthernet0/2	0
+Oct 13 2021 13:57:45 FW12 : %ASA-4-400022: IPS:2012 ICMP Address Mask Reply 122.10.213.15 to 98.70.116.188 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:45 FW15 : %ASA-4-400037: IPS:6053 DNS Request for All Records 110.241.46.192 to 58.97.152.88 on interface GigabitEthernet0/0	0
+Oct 13 2021 13:57:46 FW06 : %ASA-4-400036: IPS:6052 DNS Zone Transfer from High Port 8.87.185.166 to 98.251.89.99 on interface GigabitEthernet0/3	0
+Oct 13 2021 13:57:46 FW14 : %ASA-3-304003: URL Server 149.238.176.39 timed out URL http://www.torres.com/	0
+Oct 13 2021 13:57:46 FW06 : %ASA-4-400012: IPS:2002 ICMP Source Quench 16.90.189.10 to 21.219.159.43 on interface GigabitEthernet0/5	0
+Oct 13 2021 13:57:46 FW20 : %ASA-4-716022: Unable to connect to proxy server.	0
+Oct 13 2021 13:57:46 FW01 : %ASA-4-400037: IPS:6053 DNS Request for All Records 22.137.40.108 to 195.219.99.97 on interface GigabitEthernet0/1	0
+Oct 13 2021 13:57:46 FW18 : %ASA-7-715041: Received keep-alive of type keepalive_type , not the negotiated type	0
+Oct 13 2021 13:57:46 FW21 : %ASA-6-314004: RTSP client GigabitEthernet0/3: 189.46.176.103 accessed RTSP URL https://norton-jackson.com/	0
+Oct 13 2021 13:57:46 FW15 : %ASA-7-713052: User user16 authenticated.	0
