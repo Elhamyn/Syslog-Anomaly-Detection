@@ -57,7 +57,7 @@ def import_unlabelled_dataset(filename):
 #     dataset = pd.read_csv(filename, delimiter = "\t", quoting = 3, header = None, parse_dates = True, names = ["Syslog", "Anomaly"])
 
 # Method for importing training dataset
-def import_training_dataset(filename):
+def import_training_dataset(filename, split):
      # Importing the training dataset
     training_dataset = pd.read_csv("logs_seen_1000.csv", delimiter = '\t')
     X_train = training_dataset[training_dataset.columns[0]]
@@ -67,7 +67,7 @@ def import_training_dataset(filename):
             "y_train": y_train}
 
 # Method for importing testing dataset
-def import_testing_dataset(filename):
+def import_testing_dataset(filename, split):
     # Importing the testing dataset
     testing_dataset = pd.read_csv("logs_unseen_1000.csv", delimiter = '\t')
     X_test = testing_dataset[testing_dataset.columns[0]]
