@@ -83,7 +83,7 @@ X_test_vect = count_vect_testing.fit_transform(testing_dataset['X_test']).toarra
 y_test_vect = testing_dataset.iloc[:, -1].values
 
 
-#Logistic Regression model
+#KNN model
 classifier_KNN = KNeighborsClassifier(n_neighbors = 5, metric = 'hamming')
 classifier_KNN_model = classifier_KNN.fit(X_train_vect, y_train_vect)
 y_pred = classifier_KNN_model.predict(X_test_vect)
